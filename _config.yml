@@ -1,0 +1,19 @@
+title: SIDEREVS NVNCIVS
+email: mrcsvoliveira@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Site sobre astronomia, astrofísica, ensino de física e ciências afins.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter: marcvenicios 
+github: 
+quora: Marcos-V-Oliveira
+permalink: /:title/
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+
+
