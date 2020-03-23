@@ -4,7 +4,7 @@ title: "O Sol Nossa Estrela Modelo"
 author: Marcos
 categories: [ Artigos ]
 date: 2020-03-10 16:11:19
-image: '/assets/img/skell/eso1703c.jpg'
+image: '/assets/img/skell/corona.jpg'
 description: "Artigo sobre o nosso Sol e sua produção de energia."
 tags:
 - Sol
@@ -28,7 +28,9 @@ Em 1833 o astrônomo e matemático John Herschel descreveu o papel da luz do Sol
 
 > Os raios do Sol são a fonte última de quase todos os movimentos que ocorrem na superfície da terra. Por seu calor são produzidos todos os ventos ... Por sua ação vivificante, os vegetais são elaborados a partir de matéria inorgânica e tornam-se, por sua vez, o apoio de animais e do homem, e as fontes desses grandes depósitos de eficiência dinâmica que são criados para o ser humano.
 
-O nosso Sol detém cerca de 99% de toda massa do sistema solar que inclui planetas e os corpos menores do sistema solar (meteoros, cometas, asteróides...). Fica a quase **150 000 000 Km** de distância da Terra, ou a 1UA (unidades astronômicas). Em um avião normal, viajando a 1000 km/h, demoraria cerca de 20 anos, para chegar ao Sol. Para nós é uma distância incomparável, mas em termos astronômicos é algo como ao alcance do braço. Mas a nossa questão é como Sol produz brilho e calor, isto é, como ele produz energia? E qual(is) semelhanças ou diferenças em relação as estrelas.
+E de fato sem o Sol a vida seria impossível na Terra
+
+O nosso Sol detém cerca de 99% de toda massa do sistema solar que inclui planetas e os corpos menores do sistema solar (meteoros, cometas, asteroides...). Fica a quase **150 000 000 Km** de distância da Terra, ou a 1 UA (unidades astronômicas). Em um avião normal, viajando a 1000 km/h, demoraria cerca de 20 anos, para chegar ao Sol. Para nós é uma distância incomparável, mas em termos astronômicos é algo como ao alcance do braço. Mas a nossa questão é como Sol produz brilho e calor, isto é, como ele produz energia? E qual(is) semelhanças ou diferenças em relação as estrelas.
 
 O Sol nada mais é do que uma imensa esfera de gás incandescente, sustentada pelo **equilíbrio hidrostático**, ou seja o equilíbrio entre forças de pressão (*empuxo*) e sua alto gravidade, seu próprio peso, esse equilíbrio pode ser simplificado pela seguinte equação:
 
@@ -47,7 +49,7 @@ Assim como um balão cheio de ar (ou gases) o nosso Sol é composto  basicamente
 </figure>
 </center> 
 
-Na imagem acima é possível observar algumas partes que compõem o Sol. Começando pela fotosfera a camada externa do Sol, forma na superfície algo parecido com um líquido fervente, formando uma espécie de granulação (ou bolhas) a uma temperatura de 6000 K (Aproximadamente $5726^{\circ}C$). Cada bolha que forma tem algo em torno de 5000 km. Ainda na parte externa temos a cromosfera que geralmente é invisível, formando-se acima da fotosfera, podendo ser observada durante eclipses solares. Existem ainda as proeminências e os [flares](https://svs.gsfc.nasa.gov/cgi-bin/details.cgi?aid=11168), uma radiação provocada pelo campo magnético que força a ejeção de plasma da superfície solar.
+Na imagem acima é possível observar algumas partes que compõem o Sol. Começando pela fotosfera a camada externa do Sol, forma na superfície algo parecido com um líquido fervente, formando uma espécie de granulação (ou bolhas) a uma temperatura de 6000 K (Aproximadamente $5726^{\circ}C$). Cada bolha que forma tem algo em torno de 5000 km. Ainda na parte externa temos a cromosfera que geralmente é invisível, formando-se acima da fotosfera, podendo ser observada durante eclipses solares. Existem ainda as proeminências, também chamadas de ejeção de massa coronal ou [CME](https://svs.gsfc.nasa.gov/cgi-bin/details.cgi?aid=11168), uma radiação provocada pelo campo magnético que força a ejeção de plasma da superfície solar. No video que segue, temos uma dessas erupções de plasma solar, que ocorreu em 19 de julho de 2012, emitindo luz e radiação a uma temperatura de 50.000 K com uma duração aproximada de 10 horas.
 
 
 <center>
@@ -55,7 +57,7 @@ Na imagem acima é possível observar algumas partes que compõem o Sol. Começa
 </center>
 
 
-Mas a parte que interessa mais aqui é o núcleo solar, local onde ocorre intensas reações nucleares e produção de energia, e tudo começa na formação do Sol, em uma região do Universo com uma enorme concentração de gás e poeira interestelar. 
+Mas a parte que interessa mais aqui é o núcleo solar, local onde ocorrem intensas reações nucleares e produção de energia, e tudo começa na formação do Sol, em uma região do Universo com uma enorme concentração de gás e poeira interestelar. 
 
 Quando uma onda de choque proveniente de explosão de supernovas ou da colisão de duas galáxias atinge esta nuvem, ela fica gravitacionalmente instável e começa a se contrair, formando glóbulos de até 1 ano-luz de extensão. Esses glóbulos ou nuvens de gás, são em sua maioria formados por átomos de hidrogênio, que começam a se contrair adquirindo uma forma esférica e ganhando peso. Então, as partículas que compõem o gás estão em queda livre, uma em direção as outras, chegando a colidirem. E é aí que começa a reação de fusão destas partículas. A temperatura começa a se elevar cada vez mais até chegar ao ponto de iniciar as reações de transmutação de *H* em *He*.
 
@@ -87,7 +89,7 @@ O nosso Sol já percorreu metade do seu ciclo evolutivo há 4,5 bilhões de anos
 </figure>
 </center> 
 
-A pergunta que falta responder é se o Sol tem alguma relação com as estrela, pois estas parecem frias e não brilham como Sol. Mas na verdade, o processo de formação e evolução das estrelas é exatamente igual ao que foi descrito aqui para o Sol. As únicas diferenças são as distâncias, pois as estrelas estão muito longe, a mais próxima de nós é a [Alpha Centauri](https://pt.wikipedia.org/wiki/Alpha_Centauri) a cerca de 4,3 anos-luz, bem longe do sistema solar e por isso não notamos o seu brilho, mas é tão brilhante e massiva quanto o Sol. E a outra diferença é a massa inicial das estrelas que irá influenciar no seu processo evolutivo, o que vai definir a sua capacidade de produzir elementos mais pesados que o carbono.
+A pergunta que falta responder é se o Sol tem alguma relação com as estrela, pois estas parecem frias e não brilham como Sol. Mas na verdade, o processo de formação e evolução das estrelas é exatamente igual ao que foi descrito aqui para o Sol. As únicas diferenças são as distâncias, pois as estrelas estão muito longe, a mais próxima de nós é a [Alpha Centauri](https://pt.wikipedia.org/wiki/Alpha_Centauri) a cerca de 4,3 anos-luz, bem longe do sistema solar e por isso não notamos o seu brilho como notamos o do Sol, mas é tão brilhante e massiva quanto o Sol. E a outra diferença é a massa inicial das estrelas que irá influenciar no seu processo evolutivo, e que vai definir a sua capacidade de produzir elementos mais pesados que o carbono.
 
 
 
