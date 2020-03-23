@@ -36,7 +36,7 @@ O Sol nada mais é do que uma imensa esfera de gás incandescente, sustentada pe
 
 $$ \vec{F_{g}} + P_{ext} = P_{int} + \vec{B} + \vec{L} $$  
 
-Na verdade a equação acima inclui alguns outro fatores relevantes como o campo magnético (B) e a rotação (L) do Sol. Mas se ficarmos apenas em função do empuxo (P) e da força peso (F), poderemos compreender bem seu funcionamento.
+Na verdade a equação acima inclui alguns outros fatores, relevantes como o campo magnético (B) e a rotação (L) do Sol. Mas se ficarmos apenas em função do empuxo (P) e da força peso (F), poderemos compreender bem seu funcionamento.
 
 Assim como um balão cheio de ar (ou gases) o nosso Sol é composto  basicamente de hidrogênio e hélio, os mesmos *H* e *He* da tabela periódica. Na verdade, o *H* é o elemento mais abundante do Universo que se formou na [nucleossíntse primordial](https://en.wikipedia.org/wiki/Big_Bang_nucleosynthesis). Portanto é o responsável pela geração de energia no núcleo do Sol através de reações **termonucleares**, onde converte o hidrogênio em hélio. A cada segundo, o Sol transforma aproximadamente 600 milhões de toneladas de *H* em *He*.
 

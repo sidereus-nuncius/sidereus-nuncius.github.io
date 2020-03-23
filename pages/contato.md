@@ -5,7 +5,7 @@ title: "Envie suas sugestões."
 ---
 
 <div class="container">
-  <form action="http://formspree.io/your@mail.com" method="POST">
+  <form action="http://formspree.io/mrcsvoliveira@gmail.com" method="POST">
     <label for="name">Seu Nome</label>
     <input type="text" id="name" name="name" class="full-width"><br>
     <label for="email">Seu Email</label>
