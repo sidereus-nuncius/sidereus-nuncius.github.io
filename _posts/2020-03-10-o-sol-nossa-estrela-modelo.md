@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "O Sol Nossa Estrela Modelo"
+title: "O Sol e as Estrelas"
 author: Marcos
 categories: [ Artigos ]
 date: 2020-03-10 16:11:19
@@ -32,9 +32,9 @@ E de fato sem o Sol a vida seria impossível na Terra
 
 O nosso Sol detém cerca de 99% de toda massa do sistema solar que inclui planetas e os corpos menores do sistema solar (meteoros, cometas, asteroides...). Fica a quase **150 000 000 Km** de distância da Terra, ou a 1 UA (unidades astronômicas). Em um avião normal, viajando a 1000 km/h, demoraria cerca de 20 anos, para chegar ao Sol. Para nós é uma distância incomparável, mas em termos astronômicos é algo como ao alcance do braço. Mas a nossa questão é como Sol produz brilho e calor, isto é, como ele produz energia? E qual(is) semelhanças ou diferenças em relação as estrelas.
 
-O Sol nada mais é do que uma imensa esfera de gás incandescente, sustentada pelo **equilíbrio hidrostático**, ou seja o equilíbrio entre forças de pressão (*empuxo*) e sua alto gravidade, seu próprio peso, esse equilíbrio pode ser simplificado pela seguinte equação:
+O Sol nada mais é do que uma imensa esfera de gás incandescente, sustentada pelo **equilíbrio hidrostático**, ou seja o equilíbrio entre forças de pressão (*empuxo*) e sua alto gravidade, seu próprio peso, esse equilíbrio pode ser simplificado apenas para elucidação pela seguinte expressão:
 
-$$ \vec{F_{g}} + P_{ext} = P_{int} + \vec{B} + \vec{L} $$  
+$$ F_{g} + P_{ext} = P_{int} + B + L $$  
 
 Na verdade a equação acima inclui alguns outros fatores, relevantes como o campo magnético (B) e a rotação (L) do Sol. Mas se ficarmos apenas em função do empuxo (P) e da força peso (F), poderemos compreender bem seu funcionamento.
 
@@ -80,7 +80,7 @@ Como dito anteriormente, o Sol tem uma enorme reserva de hidrogênio, que faz co
 
 Como visto, quando todo aquele hidrogênio virar hélio, o Sol se tornará uma gigante vermelha com tamanho e massa suficiente para retomar os processos de fusão, desta vez colidindo átomos de He, formando carbono. Daí em diante a temperatura do núcleo é insuficiente para fundir carbono em elementos mais pesados. Então o Sol se desestabiliza, isto é, perde seu equilíbrio e entra em colapso, marcando o fim de sua produção de energia. Com o colapso a parte externa é ejetada lançando matéria e poeira no espaço formando uma *nebulosa planetária*. O que sobra é um núcleo muito denso composto em sua maior parte de carbono, mais ainda muito brilhante denominado de anã-branca.
 
-O nosso Sol já percorreu metade do seu ciclo evolutivo há 4,5 bilhões de anos e deve durar por mais uns 5 ou 6 bilhões de anos até consumir todo seu estoque de hidrogênio. Quando se tornar uma gigante vermelha o seu raio atingirá a órbita da Terra, engolindo Mercúrio e Vênus. A esse ponto a vida na Terra já se extinguiu a muito tempo!
+O nosso Sol já percorreu metade do seu ciclo evolutivo há 4,5 bilhões de anos e deve durar por mais uns 5 ou 6 bilhões de anos até consumir todo seu estoque de hidrogênio. Quando se tornar uma gigante vermelha o seu raio atingirá a órbita da Terra, engolindo Mercúrio e Vênus. A esse ponto a vida na Terra já se extinguiu a muito tempo! A radiação solar fará com que os oceanos fervam chegando a uma temperatura de $700^\circ C$, evaporando toda água da Terra.
 
 <center>
  <figure>
