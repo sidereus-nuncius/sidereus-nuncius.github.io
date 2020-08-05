@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "O Sol e as Estrelas"
+title: "O Sol E as Estrela"
 author: Marcos
 categories: [ Artigos ]
 date: 2020-03-10 16:11:19
@@ -13,7 +13,7 @@ tags:
 ---
 
 * * *
-Você já se perguntou como o nosso Sol produz luz e calor? Como produz a grande quantidade de energia necessária para sustentar a vida na Terra? Acredito que sim, ou pelo menos já pensou sobre isso. Neste texto vamos aprender um pouco como é nosso Sol e como ele funciona, e ainda, se o mesmo vale para as demais estrelas.
+Você já se perguntou como o nosso Sol produz luz e calor? Como produz a grande quantidade de energia necessária para sustentar a vida na Terra? Acredito que sim! Ou pelo menos já pensou sobre isso. Neste texto vamos aprender um pouco como é nosso Sol e como ele funciona, e ainda, se o mesmo vale para as demais estrelas.
 * * *
 
 <!--[alt text](/assets/img/skell/suneject.gif "Ejeção de massa coronal")-->
@@ -32,11 +32,11 @@ E de fato sem o Sol a vida seria impossível na Terra
 
 O nosso Sol detém cerca de 99% de toda massa do sistema solar que inclui planetas e os corpos menores do sistema solar (meteoros, cometas, asteroides...). Fica a quase **150 000 000 Km** de distância da Terra, ou a 1 UA (unidades astronômicas). Em um avião normal, viajando a 1000 km/h, demoraria cerca de 20 anos, para chegar ao Sol. Para nós é uma distância incomparável, mas em termos astronômicos é algo como ao alcance do braço. Mas a nossa questão é como Sol produz brilho e calor, isto é, como ele produz energia? E qual(is) semelhanças ou diferenças em relação as estrelas.
 
-O Sol nada mais é do que uma imensa esfera de gás incandescente, sustentada pelo **equilíbrio hidrostático**, ou seja o equilíbrio entre forças de pressão (*empuxo*) e sua alto gravidade, seu próprio peso, esse equilíbrio pode ser simplificado apenas para elucidação pela seguinte expressão:
+O Sol nada mais é do que uma imensa esfera de gás incandescente, sustentada pelo **equilíbrio hidrostático**, ou seja o equilíbrio entre forças de pressão (*empuxo*) e sua alto gravidade, seu próprio peso, esse equilíbrio pode ser simplificado apenas para pela seguinte equação:
 
-$$ F_{g} + P_{ext} = P_{int} + B + L $$  
+$$ F_{g} + P_{ext} = P_{int} $$
 
-Na verdade a equação acima inclui alguns outros fatores, relevantes como o campo magnético (B) e a rotação (L) do Sol. Mas se ficarmos apenas em função do empuxo (P) e da força peso (F), poderemos compreender bem seu funcionamento.
+Na verdade ainda existem duas grandezas fisicas importantes para a atividade solar, como o $\vec{B} (campo magnético), gerado pelo movimento plasmático e responsável pela **CME**, e a rotação do Sol \vec{L} (momento angular), provocado pela contração do Sol, que o faz girar em torno de seu próprio eixo. Mas se ficarmos apenas em função do empuxo (P) e da força peso (F), poderemos compreender bem seu funcionamento.
 
 Assim como um balão cheio de ar (ou gases) o nosso Sol é composto  basicamente de hidrogênio e hélio, os mesmos *H* e *He* da tabela periódica. Na verdade, o *H* é o elemento mais abundante do Universo que se formou na [nucleossíntse primordial](https://en.wikipedia.org/wiki/Big_Bang_nucleosynthesis). Portanto é o responsável pela geração de energia no núcleo do Sol através de reações **termonucleares**, onde converte o hidrogênio em hélio. A cada segundo, o Sol transforma aproximadamente 600 milhões de toneladas de *H* em *He*.
 
@@ -74,13 +74,13 @@ A esse ponto a temperatura no núcleo solar é de 15 milhões de graus Celsius. 
 </figure>
 </center> 
 
-O processo de fusão inicial envolvem estes núcleos de hidrogênio apresentados na figura acima, numa reação chamada cadeia próton-próton (p-p). Na primeira etapa da cadeia p-p (lado direito da figura 2 acima), dois átomos de H se fundem para formar um núcleo de deutério, um pósitron e um neutrino. O neutrino escapa da estrela, mas o pósitron colide com o elétron liberando energia. Na segunda etapa o deutério se funde com outro H, formando o isótopo de hélio ($ ^{3}H $) com dois prótons e um neutron, liberando fótons ($\gamma$). E na terceira reação, dois isótopos de fundem para formar um átomo de hélio $ ^{4}He $ e dois núcleos de H.
+O processo de fusão inicial envolvem estes núcleos de hidrogênio apresentados na figura acima, numa reação chamada cadeia próton-próton (cadeia p-p). Na primeira etapa da cadeia p-p (lado direito da Figura 2 acima), dois átomos de H se fundem para formar um núcleo de deutério, um pósitron e um neutrino. O neutrino escapa da estrela, mas o pósitron colide com o elétron liberando energia. Na segunda etapa o deutério se funde com outro H, formando o isótopo de hélio ($ ^{3}H $) com dois prótons e um neutron, liberando fótons ($\gamma$). E na terceira reação, dois isótopos de fundem para formar um átomo de hélio $ ^{4}He $ e dois núcleos de H.
 
 Como dito anteriormente, o Sol tem uma enorme reserva de hidrogênio, que faz com que seja possível manter essas reações constantes, ficando estável por um longo período. Mas o que pode acontecer com o Sol se essa reserva de hidrogênio se esgotar?
 
 Como visto, quando todo aquele hidrogênio virar hélio, o Sol se tornará uma gigante vermelha com tamanho e massa suficiente para retomar os processos de fusão, desta vez colidindo átomos de He, formando carbono. Daí em diante a temperatura do núcleo é insuficiente para fundir carbono em elementos mais pesados. Então o Sol se desestabiliza, isto é, perde seu equilíbrio e entra em colapso, marcando o fim de sua produção de energia. Com o colapso a parte externa é ejetada lançando matéria e poeira no espaço formando uma *nebulosa planetária*. O que sobra é um núcleo muito denso composto em sua maior parte de carbono, mais ainda muito brilhante denominado de anã-branca.
 
-O nosso Sol já percorreu metade do seu ciclo evolutivo há 4,5 bilhões de anos e deve durar por mais uns 5 ou 6 bilhões de anos até consumir todo seu estoque de hidrogênio. Quando se tornar uma gigante vermelha o seu raio atingirá a órbita da Terra, engolindo Mercúrio e Vênus. A esse ponto a vida na Terra já se extinguiu a muito tempo! A radiação solar fará com que os oceanos fervam chegando a uma temperatura de $700^\circ C$, evaporando toda água da Terra.
+O nosso Sol já percorreu metade do seu ciclo evolutivo há 4,5 bilhões de anos e deve durar por mais uns 5 ou 6 bilhões de anos até consumir todo seu estoque de hidrogênio. Quando se tornar uma gigante vermelha o seu raio atingirá a órbita da Terra, engolindo Mercúrio e Vênus. A esse ponto a vida na Terra já se extinguiu a muito tempo! Daqui a aproximadamente 1.1 bilhões de anos o Sol será $10\%$ maior elevando a temperatura terrestre, provocando um efeito estufa mais acentuado. Daqui a 3.5 bilhões de anos o Sol será $40\%$ maior, radiação solar fará com que os oceanos fervam chegando a uma temperatura de $700^\circ C$, evaporando toda água da Terra.
 
 <center>
  <figure>
