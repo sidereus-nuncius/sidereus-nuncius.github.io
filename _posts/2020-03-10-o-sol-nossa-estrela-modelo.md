@@ -60,7 +60,7 @@ Continuando na fotosfera, temos ainda as **manchas solares**, são regiões escu
 
 <center>
  <figure>
-  <img src="/assets/img/skell/manchasolar" alt="Trulli" style="width:40%">
+  <img src="/assets/img/skell/manchasolar.png" alt="Trulli" style="width:40%">
   <figcaption>Fig.2 - Manchas solares individuais e em grupos marcando a intensa atividade magnética na superfície da fotosfera.</figcaption>
 </figure>
 </center> 
