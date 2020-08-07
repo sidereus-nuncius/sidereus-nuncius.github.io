@@ -44,4 +44,43 @@ Na simulação abaixo, podemos observar uma protoestrela com um disco protoplane
 
 Para as estrelas massivas (acima de $10 M\odot$) o glóbulo é completamente consumido, ionizando toda a nuvem ao redor para formar a protoestrela, tudo isso em um período de mais ou menos 160 000 anos. Diferente das estrelas da ordem de massa do Sol, que levam cerca de 30 milhões de anos para sais da fase de protoestrela e ainda não destrói todo o glóbulo, preservando a nuvem de gás e poeira em forma de disco ao seu redor. Tanto estrelas massivas como de pouca massa, emitem um jato de radiação que escapa do núcleo da protoestrela, porém nas estrelas de pouca massa, esse jato vai interagir com o que sobrou do glóbulo e da nuvem, do qual se formará os sistemas planetários.
 
+### Classificação e o diagrama HR
+
+<center>
+ <figure>
+  <img src="/assets/img/evlStar/diagramaHR.png" alt="Trulli" style="width:60%">
+  <figcaption>Fig.2 - Classificação e estágios evolutivos das estrelas.</figcaption>
+</figure>
+</center> 
+
+A transição de protoestrela para estrela, ocorre quando os processos de fusão termonuclear - hidrogênio em hélio - se estabiliza. Essas estrelas estão agora em equilíbrio hidrostático; a pressão de radiação devido ao processo de fusão no núcleo é equilibrada pela força gravitacional interna, assim a estrela brilha e cresce.
+
+As estrelas podem ser classificadas e agrupadas a partir de sua cor e seu brilho, analisando essas propriedades físicas é possível verificar que as estrela não se distribuem aleatoriamente no espaço, mas formam agrupamentos específicos. Sabendo disso por volta de 1910 dois astrônomos Ejnar Hertzsprung e Henry Norris Russell elaboraram um diagrama que ficou conhecido como diagrama HR, classificando as estrelas em  estrelas supergigantes, gigantes, anãs e anãs-brancas.
+
+Podemos dizer que o diagrama HR é a tabela periódica para as estrelas. Da mesma forma que na tabela periódica os elementos são organizados de acordo com suas propriedades físicas e químicas, no diagrama HR as estrelas das mesmas regiões compartilham um conjunto comum de características, porém, diferentemente da tabela periódica, as características físicas das estrelas mudam com o tempo e, portanto sua posição no diagrama também muda; de modo que podemos pensar no diagrama HR como um gráfico visual da evolução estelar. A partir da localização de uma estrela no gráfico, são conhecidas; a luminosidade, tipo espectral, cor, temperatura, massa, composição química, idade e história evolutiva.
+
+As estrelas anãs como o Sol ocupam a faixa de *sequência principal*, a maioria das estrelas se encontram nesta faixa. Aqui as estrelas mais vermelhas são mais frias e menos luminosas, enquanto as mais azuis são mais quentes e mais luminosas. Ainda na sequência principal, as estrelas que tem maior massa são as mais brilhantes, logo mais azuis e mais quentes. A maioria tem massa da ordem de $0.8 M_{\odot}$, mas existem estrelas que podem chegar a $60 M_{\odot}$, 10 milhões de vezes mais brilhantes que o Sol.
+
+Quando se esgota todo o seu hidrogênio, as estrelas começam a sair da SP, então se expandem e se transformam em gigantes vermelhas ocupando a parte superior do diagrama. São estrelas frias e luminosas, que embora tenha uma baixa temperatura, suas áreas superficiais são muito grandes, chegando a ser maiores que a órbita da Terra, por isso tem grande luminosidade.
+
+<center>
+ <figure>
+  <img src="/assets/img/evlStar/betelgeuse.jpg" alt="Trulli">
+  <figcaption>Fig.3 - Estrela Betelgeuse supergigante da constelação de Órion que está a 642 anos-luz com uma massa de $14M_{\odot}$, chegando a ser quase 15 000 vezes mais luminosa que o Sol. </figcaption>
+</figure>
+</center> 
+
+Abaixo da sequência principal ficam as anãs-brancas, são estrelas com o tamanho próximo ao da Terra, porém, possuem uma massa de até $10 M_{\odot}$. É o ultimo estágio de evolução de muitas estrelas, incluindo o Sol como visto anteriormente. A estrela Sirius B é um exemplo de anã-branca, são estrelas muito comuns pois estão terminando seu ciclo evolutivo. O passo seguinte vai depender da massa da estrela, que vai determinar se ela será uma estrela de neutrons ou um buraco negro.
+
+<center>
+ <figure>
+  <img src="/assets/img/evlStar/siriusb.png" alt="Trulli">
+  <figcaption>Fig. - Estrela anã-branca Sirius b da constelação do cão maior que saiu da sequência principal a cerca de 230 milhões de anos.  </figcaption>
+</figure>
+</center> 
+
+### Estágio final das estrelas supermassivas
+
+
+
 
