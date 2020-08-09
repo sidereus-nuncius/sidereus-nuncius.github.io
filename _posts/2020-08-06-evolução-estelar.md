@@ -48,7 +48,7 @@ Para as estrelas massivas (acima de $10 M\odot$) o glóbulo é completamente con
 
 <center>
  <figure>
-  <img src="/assets/img/evlStar/diagramaHR.png" alt="Trulli" style="width:60%">
+  <img src="/assets/img/evlStar/diagramaHR.png" alt="Trulli" style="width:40%">
   <figcaption>Fig.2 - Classificação e estágios evolutivos das estrelas.</figcaption>
 </figure>
 </center> 
@@ -65,7 +65,7 @@ Quando se esgota todo o seu hidrogênio, as estrelas começam a sair da SP, ent�
 
 <center>
  <figure>
-  <img src="/assets/img/evlStar/betelgeuse.jpg" alt="Trulli" style="width:80%">
+  <img src="/assets/img/evlStar/betelgeuse.jpg" alt="Trulli" style="width:40%">
   <figcaption>Fig.3 - Estrela Betelgeuse supergigante da constelação de Órion que está a 642 anos-luz com uma massa de $14M_{\odot}$, chegando a ser quase 15 000 vezes mais luminosa que o Sol. </figcaption>
 </figure>
 </center> 
@@ -74,7 +74,7 @@ Abaixo da sequência principal ficam as anãs-brancas, são estrelas com o taman
 
 <center>
  <figure>
-  <img src="/assets/img/evlStar/siriusb.png" alt="Trulli" style="width:80%">
+  <img src="/assets/img/evlStar/siriusb.png" alt="Trulli" style="width:40%">
   <figcaption>Fig.4 - Estrela anã-branca Sirius b da constelação do cão maior que saiu da sequência principal a cerca de 230 milhões de anos.  </figcaption>
 </figure>
 </center> 
@@ -89,7 +89,7 @@ A estrela se apresenta uma estrutura em camadas com núcleo central de ferro e a
 
 <center>
  <figure>
-  <img src="/assets/img/evlStar/nstar.png" alt="Trulli" style="width:80%">
+  <img src="/assets/img/evlStar/nstar.png" alt="Trulli" style="width:40%">
   <figcaption>Fig.5 - Estrutura em camadas de uma estrela supermassiva, as camadas se distribuem de forma concêntricas, com elementos cada vez mais pesados, raios menores e temperaturas mais elevadas à medida que se aproxima do centro.</figcaption>
 </figure>
 </center> 
@@ -101,7 +101,7 @@ O que do núcleo depois deste evento super energético depende como sempre, da m
 
 <center>
  <figure>
-  <img src="/assets/img/evlStar/veunebula.jpg" alt="Trulli" style="width:80%">
+  <img src="/assets/img/evlStar/veunebula.jpg" alt="Trulli" style="width:40%">
   <figcaption>Fig.6 - Nebulosa do Véu é um remanescente de Supernova que ocorreu a cerca de 10 mil anos quando uma estrela supermassiva explodiu na constelação do Cygnus.</figcaption>
 </figure>
 </center> 
@@ -114,7 +114,7 @@ Na imagem que segue temos uma provável remanescente de supernova da constelaç�
 
 <center>
  <figure>
-  <img src="/assets/img/evlStar/casa.jpg" alt="Trulli" style="width:80%">
+  <img src="/assets/img/evlStar/casa.jpg" alt="Trulli" style="width:40%">
   <figcaption>Fig.6 - Cassiopeia A (Cas A), remanescente de supernova que explodiu a cerca de 330 anos atrás.</figcaption>
 </figure>
 </center> 
