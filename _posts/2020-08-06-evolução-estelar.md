@@ -65,22 +65,87 @@ Quando se esgota todo o seu hidrogênio, as estrelas começam a sair da SP, ent�
 
 <center>
  <figure>
-  <img src="/assets/img/evlStar/betelgeuse.jpg" alt="Trulli">
+  <img src="/assets/img/evlStar/betelgeuse.jpg" alt="Trulli" style="width:80%">
   <figcaption>Fig.3 - Estrela Betelgeuse supergigante da constelação de Órion que está a 642 anos-luz com uma massa de $14M_{\odot}$, chegando a ser quase 15 000 vezes mais luminosa que o Sol. </figcaption>
 </figure>
 </center> 
 
-Abaixo da sequência principal ficam as anãs-brancas, são estrelas com o tamanho próximo ao da Terra, porém, possuem uma massa de até $10 M_{\odot}$. É o ultimo estágio de evolução de muitas estrelas, incluindo o Sol como visto anteriormente. A estrela Sirius B é um exemplo de anã-branca, são estrelas muito comuns pois estão terminando seu ciclo evolutivo. O passo seguinte vai depender da massa da estrela, que vai determinar se ela será uma estrela de neutrons ou um buraco negro.
+Abaixo da sequência principal ficam as anãs-brancas, são estrelas com o tamanho próximo ao da Terra, porém, possuem uma massa de até $10 M_{\odot}$. É o ultimo estágio de evolução de muitas estrelas, incluindo o Sol como visto anteriormente. A estrela Sirius B é um exemplo de anã-branca, são estrelas muito comuns pois estão terminando seu ciclo evolutivo. O passo seguinte vai depender da massa da estrela, que vai determinar se ela será uma estrela de nêutrons ou um buraco negro.
 
 <center>
  <figure>
-  <img src="/assets/img/evlStar/siriusb.png" alt="Trulli">
-  <figcaption>Fig. - Estrela anã-branca Sirius b da constelação do cão maior que saiu da sequência principal a cerca de 230 milhões de anos.  </figcaption>
+  <img src="/assets/img/evlStar/siriusb.png" alt="Trulli" style="width:80%">
+  <figcaption>Fig.4 - Estrela anã-branca Sirius b da constelação do cão maior que saiu da sequência principal a cerca de 230 milhões de anos.  </figcaption>
 </figure>
 </center> 
 
 ### Estágio final das estrelas supermassivas
 
+As estrelas supermassivas passam um curto período de tempo na sequência principal, é possível que estrelas com mais de $40 M_{\odot}$ nem consigam terminar de fundir todo seu H em He, caminhando direto para a região das estrelas supergigantes. São estrelas raras,- mais de $90\%$ das estrelas que se formam são da ordem do Sol, com massa entre 0,8 a $8 M_{\odot}$ - porém as estrelas supermassivas são fundamentais para a produção de elementos pesados e para o balanço energético do meio interestelar.
+
+A transição dessas estrelas para o ramo das supergigantes é bastante violenta, pois as estrelas se contraem e expandem a medida que formam novos elementos em seu núcleo, fazendo com que a estrela pulse entre fases de estabilidade e instabilidade entre as forças da gravidade e a pressão interna. Depois que o hidrogênio do núcleo se esgota, o hélio começa a se fundir criando carbono e oxigênio. O núcleo de carbono-oxigênio se contrai e aquece até atingir a temperatura suficiente para se fundir e produzir átomos de néon, magnésio, silício e enxofre. O silício e o enxofre também vão se fundir no núcleo para formar ferro, níquel e outros elementos de mesmo peso atômico.
+
+A estrela se apresenta uma estrutura em camadas com núcleo central de ferro e ao redor os demais elementos como mostra a imagem abaixo. O núcleo de ferro é muito duro e compacto e não consegue gerar energia suficiente para fundir seus átomos. Até este patamar a fusão termonuclear só foi possível porque durante as reações energia era liberada, no caso do ferro, ele precisa absorver energia para formar núcleos mais pesados que ele, que só será possível mais tarde, durante o colapso catastrófico da estrela.
+
+<center>
+ <figure>
+  <img src="/assets/img/evlStar/nstar.png" alt="Trulli" style="width:80%">
+  <figcaption>Fig.5 - Estrutura em camadas de uma estrela supermassiva, as camadas se distribuem de forma concêntricas, com elementos cada vez mais pesados, raios menores e temperaturas mais elevadas à medida que se aproxima do centro.</figcaption>
+</figure>
+</center> 
+
+Como dito, a fusão do núcleo de ferro requer mais energia do que a que está disponível, mesmo assim, uma fina camada de silício e enxofre acima do núcleo continua a produzir ferro, quando a massa do núcleo chega a $1.4M_{\odot}$, a pressão do núcleo não é mais capaz de impedir o colapso da estrela, em menos de 1 segundo o núcleo passa de aproximadamente 8000 km para 19 km. O colapso acontece tão rápido que as demais camadas acima do núcleo caem vertiginosamente em direção ao centro da estrela, criando uma onda de choque superforte que aquece essas camadas, induzindo uma fusão nuclear explosiva, ejetando essas camadas externas e pedaços de ferro a uma velocidade de 16 milhões de km/h. É Essa energia liberada pela onda de choque que cria elementos ta tabela periódica mais pesados que o ferro. Esse fenômeno é chamado evento de **Supernova**, uma explosão mais brilhante do que um bilhão de sóis.
 
 
+O que do núcleo depois deste evento super energético depende como sempre, da massa inicial da estrela, e pode ser uma estrela de nêutrons (pulsar ou magnetar) ou um buraco negro.
 
+<center>
+ <figure>
+  <img src="/assets/img/evlStar/veunebula.jpg" alt="Trulli" style="width:80%">
+  <figcaption>Fig.6 - Nebulosa do Véu é um remanescente de Supernova que ocorreu a cerca de 10 mil anos quando uma estrela supermassiva explodiu na constelação do Cygnus.</figcaption>
+</figure>
+</center> 
+
+### Objetos Compactos
+
+Depois da explosão de Supernova, pode acontecer de o núcleo de ferro colapsodo estar com uma massa superior a massa limite de $1.4 M_{\odot}$. Se esta estrela começou com uma massa pouco maior que $8 M_{\odot}$, e agora seu núcleo tem mais de $1.4 M_{\odot}$, a força repulsiva entre os elétrons deste núcleo não é forte o suficiente para se equilibrar com a gravidade, o núcleo em colapso é muito denso e compacto que os elétrons em seus núcleos atômicos são forçados a se combinarem com os prótons e se tornarem nêutrons. Assim esse núcleo se torna uma estrela de nêutrons, mantida em equilíbrio **força nuclear forte**, que fornece a pressão para impedir que a gravidade contraia o núcleo ainda mais.
+
+Na imagem que segue temos uma provável remanescente de supernova da constelação de Cassiopeia em nossa galáxia a cerca de 11 000 anos-luz da Terra. No centro desta nebulosa de cerca de 10 anos-luz de comprimento, está uma estrela de nêutrons de aproximadamente $2.4 - 3 M_{\odot}$.
+
+<center>
+ <figure>
+  <img src="/assets/img/evlStar/casa.jpg" alt="Trulli" style="width:80%">
+  <figcaption>Fig.6 - Cassiopeia A (Cas A), remanescente de supernova que explodiu a cerca de 330 anos atrás.</figcaption>
+</figure>
+</center> 
+
+A pressão que mantém uma estrela de nêutrons em equilíbrio com a gravidade só é possível para um núcleo de aproximadamente $2.4 - 3 M_{\odot}$. Se ao invés disso, o núcleo que sobrou da explosão de supernova exceder $3 M_{\odot}$ a pressão dos nêutrons no núcleo não pode parar o colapso total da estrela. O núcleo fica muito mais denso e compacto e os nêutros são empurrados uns contra os outros até que o núcleo estelar se torne uma região com gravidade estrema distorcendo o espaço-tempo em seu entorno tornando a estrela um buraco negro de massa estelar.
+
+Buracos negros estelares geralmente surgem em sistemas binários ou múltiplos de estrelas onde, além da estrela que deu origem ao buraco negro, existe pelo menos uma estrela companheira gigante ou supergigante. No centro do buraco negro é descrito como *singularidade gravitacional* - uma região onde a curvatura do espaço-tempo se torna infinita, contendo volume zero e densidade infinita. Os buracos negros podem ser detectados indiretamente por seus efeitos no espaço-tempo, apresentando um disco de acresção de matéria da estrela companheira. Na simulação seguinte, podemos observar um buraco negro de $16 M_{\odot}$ e sua estrela companheira de $70 M_{\odot}$. O buraco negro está cercado por um disco de acresção de matéria da estrela companheira que foi colocada em órbita do buraco negro, devido ao intenso campo gravitacional deste.
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hu6hIhW00Fk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+
+Geralmente, estrelas da ordem de 50 a 100 $M_{\odot}$ produzirão buracos negros, mesmo assim, são considerados pequenos quando comparados a buracos negros supermassivos no centro das galáxias. Na tabela abaixo temos um resumo do que pode acontecer com uma estrela durante seu ciclo evolutivo, conforme sua massa inicial:
+
+Massa inicial $M_{\odot}$ | Elementos do Núcleo | Estado final
+:------------ | :----------: | :------------
+< 0.01        |              | Planeta
+0.01 - 0.08   | Não funde H  | Anã marrom
+0.08 - 0.25   | Fusão de H   | Anã branca de He
+0.25 - 8      | Fusão de H e He | Anã branca de C e O
+8 - 10        | Fusão de C/ captura de elétrons | Anã branca de O/Ne/Mg
+10 - 40       | Fusão de H, He, Ne, O, Si | Supernova - Estrela de Nêutrons 
+> 40          | Fusão de H, He, Ne, O, Si | Supernova - Buraco Negro
+
+-----
+-----
+
+## Referências
+
+* [Stellar Evolution](https://chandra.harvard.edu/edu/formal/stellar_ev/)
+* [Astronomia e Astrofísica](http://astro.if.ufrgs.br/escala/escala.htm)
+* [Revista Ilustríssima](https://portal.cbpf.br/downloads/divulgacao-cientifica/livros/Ilustrissima-fisica.pdf)
+* [Wikipédia - Evolução Estelar](https://pt.wikipedia.org/wiki/Evolu%C3%A7%C3%A3o_estelar)
+* [O céu que nos envolve](http://www.astro.iag.usp.br/OCeuQueNosEnvolve.pdf)
