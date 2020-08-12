@@ -13,7 +13,7 @@ tags:
 ---
 
 * * *
-Você já se perguntou como o nosso Sol produz luz e calor? Como produz a grande quantidade de energia necessária para sustentar a vida na Terra? Acredito que sim! Ou pelo menos já pensou sobre isso. Neste texto vamos aprender um pouco como é nosso Sol e como ele funciona, e ainda, se o mesmo vale para as demais estrelas.
+<h5>Você já se perguntou como o nosso Sol produz luz e calor? Como produz a grande quantidade de energia necessária para sustentar a vida na Terra? Acredito que sim! Ou pelo menos já pensou sobre isso. Neste texto vamos aprender um pouco como é nosso Sol e como ele funciona, e ainda, se o mesmo vale para as demais estrelas.</h5>
 * * *
 
 <!--[alt text](/assets/img/skell/suneject.gif "Ejeção de massa coronal")-->
@@ -45,7 +45,7 @@ Assim como um balão cheio de ar (ou gases) o nosso Sol é composto  basicamente
 <center>
  <figure>
   <img src="/assets/img/skell/partesol.gif" alt="Trulli" style="width:40%">
-  <figcaption>Fig.1 - Estrutura e divisão em camadas do Sol.</figcaption>
+  <figcaption>Fig.1 - Estrutura e divisão em camadas que fazem parte do nosso Sol, desde o núcleo até a superfície.</figcaption>
 </figure>
 </center> 
 
