@@ -17,8 +17,9 @@ img { max-width: 100%; vertical-align: middle; }
 figure > img { display: block; }
 
 figcaption { font-size: 14px;
-	width: 80%;
-	text-align: left, center;
+	width: 75%;
+	text-align: center;
+	margin-top: 15px;
 }
 
 /** Lists */
@@ -144,7 +145,8 @@ table td { border: 1px solid #e8e8e8; }
 /** Posts */
 .post-header { margin-bottom: 30px; }
 
-.post-title { font-size: 42px; letter-spacing: -1px; line-height: 1; }
+.post-title { font-size: 46px; letter-spacing: -1px; line-height: 1; text-shadow: 3px 3px 2px #727272;
+}
 
 @media screen and (max-width: 800px) { .post-title { font-size: 36px; } }
 
