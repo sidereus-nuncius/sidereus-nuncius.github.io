@@ -14,7 +14,7 @@ tags:
 ---
 
 * * *
-<h5>Um buraco negro não é uma estrela como visto anteriormente, mas um remanescente de estrela, um objeto compacto sem superfície e com um imenso campo gravitacional que o espaço-tempo em seu entorno é deformado a ponto de interferir até mesmo na trajetória da luz. Devido tal concentração de matéria, sua forma e definição só faz sentido no contexto da <em>Relatividade Geral</em>.</h5>
+<h5>Um buraco negro não é uma estrela como visto <a href="2020-03-10-o-sol-nossa-estrela-modelo.md">anteriormente</a>, mas um remanescente de estrela, um objeto compacto sem superfície e com um imenso campo gravitacional que o espaço-tempo em seu entorno é deformado a ponto de interferir até mesmo na trajetória da luz. Devido tal concentração de matéria, sua forma e definição só faz sentido no contexto da <em>Relatividade Geral</em>.</h5>
 * * *
 
 <center>
