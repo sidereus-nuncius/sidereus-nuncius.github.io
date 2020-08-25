@@ -14,7 +14,7 @@ tags:
 ---
 
 * * *
-<h5>Um buraco negro não é uma estrela como visto <a href="2020-03-10-o-sol-nossa-estrela-modelo.md">anteriormente</a>, mas um remanescente de estrela, um objeto compacto sem superfície e com um imenso campo gravitacional que o espaço-tempo em seu entorno é deformado a ponto de interferir até mesmo na trajetória da luz. Devido tal concentração de matéria, sua forma e definição só faz sentido no contexto da <em>Relatividade Geral</em>.</h5>
+<h5>Um buraco negro não é uma estrela como visto <a href="../2020-03-10-o-sol-nossa-estrela-modelo.md">anteriormente</a>, mas um remanescente de estrela, um objeto compacto sem superfície e com um imenso campo gravitacional que o espaço-tempo em seu entorno é deformado a ponto de interferir até mesmo na trajetória da luz. Devido tal concentração de matéria, sua forma e definição só faz sentido no contexto da <em>Relatividade Geral</em>.</h5>
 * * *
 
 <center>
@@ -26,7 +26,7 @@ tags:
 
 Os buracos negros são uma parte importante do nosso ecossistema cósmico, mesmo sendo identificado na maioria das vezes como devoradores de estrelas e de intrépidos astronautas que ultrapassam seus limites, quanto mais aprendemos sobre eles, mais parece que devemos ficar felizes por estarem por perto! Por exemplo, os buracos negros supermassivos ajudam a manter as galáxias estáveis, na verdade ao que parece as galáxias mantém todas aquelas estruturas por causa desses objetos exóticos.
 
-De fato, qualquer coisa que ultrapasse os limites de um buraco negro desaparece para sempre, por isso não podemos vê-lo. Mas a verdade é que apenas uma pequena fração da matéria próxima de um buraco negro é puxada, a maior parte fica em seu entorno, como a água quando forma um vórtice ou um redemoinho. A água nunca desce direto pelo ralo. O mesmo ocorre com o gás e a poeira que circunda um buraco negro. Se a matéria não perder sua rotação, ela entrará em órbita em forma de disco ao redor do buraco negro, o chamado disco de acresção, a parte acinzentada da figura 1.
+De fato, qualquer coisa que ultrapasse os limites de um buraco negro desaparece para sempre, por isso não podemos vê-lo. Mas a verdade é que apenas uma pequena fração da matéria próxima de um buraco negro é puxada, a maior parte fica em seu entorno, como a água quando forma um vórtice ou um redemoinho. A água nunca desce direto pelo ralo. O mesmo ocorre com o gás e a poeira que circunda um buraco negro. Se a matéria não perder sua rotação, ela entrará em órbita em forma de disco ao redor do buraco negro, o chamado disco de acreção, a parte acinzentada da figura 1.
 
 Mas o que acontece com a matéria que cai em um buraco negro? Essa pergunta pode ser melhor respondida no contexto da **relatividade geral**, mas podemos dizer que a matéria que cai ao *redor* do buraco negro nunca pode alcançar o próprio buraco negro, a menos que perca momento angular (rotação). Na verdade a matéria que cai é expelida antes de alcançar o próprio buraco negro. Recentemente os astrônomos observaram que o centro da Via-láctea na região de Sgr $A^*$, emitiu-se um brilho intenso, ficando esta 75 vezes mais brilhante que o normal. Quando um buraco negro brilha tão intensamente assim, é o sinal de que algo pode ter chegado perto o suficiente para ser agarrado por seu forte campo gravitacional. Logo os buracos negros não apenas absorvem coisas mas as emitem em forma de radiação. A matéria é expulsa pelos pólos em forma de jatos a velocidades enormes, próximas a da luz. Essa ejeção de matéria pode provocar alguns efeitos adversos, principalmente nos buracos negros supermassivos, interrompendo o crescimento das galáxias ou até mesmo parando o fluxo de gás em direção aos centros dos aglomerados de galáxias.
 
@@ -59,9 +59,9 @@ A galáxia M87 possui mais que o dobro do diâmetro da Via-Láctea, aproximadame
 
 ### Características físicas dos buracos negros
 
-Já sabemos como que os buracos negros surgem, tanto os estelares, quanto os supermassivos, agora vamos descobrir um pouco sobre sua e as partes que compõem esses objetos. De imediato podemos definir que um buraco negro é formado por um disco de acresção, um horizonte de eventos com limites em um raio específico, uma esfera de fótons e uma singularidade.
+Já sabemos como que os buracos negros surgem, tanto os estelares, quanto os supermassivos, agora vamos descobrir um pouco sobre sua e as partes que compõem esses objetos. De imediato podemos definir que um buraco negro é formado por um disco de acreção, um horizonte de eventos com limites em um raio específico, uma esfera de fótons e uma singularidade.
 
-Começando pelo disco de acresção, ou de acréscimo, é a parte externa do buraco negro. Se trata de um disco plano distorcido por lentes gravitacionais criado por um material difuso de gás e poeira em movimento orbital, que faz a matéria espiralar em torno do bojo central. Presente em vários fenômenos da astrofísica, incluindo os núcleos galácticos ativos e os discos protoplanetários já citados. O gás da parte interna do disco, orbita em velocidades muito altas para não escapar, com isso, o atrito resultante é tão significativo que aquece o disco interno a temperaturas nas quais emitem grandes quantidades de radiação eletromagnética que podem ser detectadas por telescópios.
+Começando pelo disco de acreção, ou de acréscimo, é a parte externa do buraco negro. Se trata de um disco plano distorcido por lentes gravitacionais criado por um material difuso de gás e poeira em movimento orbital, que faz a matéria espiralar em torno do bojo central. Presente em vários fenômenos da astrofísica, incluindo os núcleos galácticos ativos e os discos protoplanetários já citados. O gás da parte interna do disco, orbita em velocidades muito altas para não escapar, com isso, o atrito resultante é tão significativo que aquece o disco interno a temperaturas nas quais emitem grandes quantidades de radiação eletromagnética que podem ser detectadas por telescópios.
 
 Depois, temos o horizonte de eventos, um limite do espaço tempo onde a matéria e a luz só podem passar para dentro do buraco negro, não há escape! É também conhecido como ponto de não retorno, tudo que o cruza nunca mais é visto, a não ser se tiver uma velocidade maior que a da luz! Seu nome é bem sugestivo, assim como os objetos desaparecem abaixo do nosso horizonte na Terra, qualquer coisa que ocorra dentro do horizonte de eventos não pode mais interagir com o resto do Universo. A deformação do espaço-tempo é tão intensa nesta região, que o tempo passa mais devagar para quem observa à distância qualquer evento nas proximidades do horizonte de eventos, levando um tempo infinito para alcançar o buraco negro. Porém, um observador indestrutível caindo em direção ao buraco negro, não notará nenhum desses efeitos devido aos princípios da relatividade.
 
@@ -71,8 +71,8 @@ E por fim a singularidade gravitacional, a região onde a curvatura do espaço-t
 
 <center>
  <figure>
-  <img src="/assets/img/bh/partbh.jpg" alt="Trulli" style="width:70%">
-  <figcaption>Fig.3 - Imagem com detalhes das partes que compõem um buraco negro, detalhando a distorção do espaço-tempo. </figcaption>
+<iframe width="900" height="500" src="https://www.youtube.com/embed/l36UkYtq6m0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <figcaption>O video simula um observador distante, olhando acima do plano do disco de acreção - a parte avermelhada circundante. Em torno do buraco negro central, apresenta uma fina circunferência, separa do disco de acreção, marcando a posição da esfera de fótons, dentro da qual fica o horizonte de eventos. A parte que fica mais brilhante a esquerda (parte mais avermelhada), se deve ao fato de estar mais próxima do observador, e circulando em sua direção. Conforme a simulação continua, é possível visualizar por cima do buraco negro e por baixo, passando pelo plano do disco no lado oposto e retornando ao ponto de vista original. </figcaption>
 </figure>
 </center> 
 
