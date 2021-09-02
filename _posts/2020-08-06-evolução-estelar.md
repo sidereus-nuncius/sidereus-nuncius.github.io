@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Evolução Estelar - Ciclos de Nascimento e Morte das Estrelas"
+title: "Evolução Estelar - Ciclos de Nascimento, Vida e Morte das Estrelas"
 author: Marcos
 categories: [ Artigos ]
 date: 2020-08-06 18:55:56
@@ -14,48 +14,80 @@ tags:
 ---
 
 * * *
-<h5>No texto sobre o Sol, já definimos que os fatores básicos que o faz produzir brilho e calor também ocorrem nas estrelas, e que as únicas diferenças entre o Sol e as Estrelas é a massa inicial e a distância. Agora estamos preparados para entender um pouco mais sobre as estrelas e sobre esses fatores que fazem com que elas se diferenciem do Sol; em cor, em massa, entre outros. Mas o principal objetivo aqui é saber se as estrelas vão terminar seu ciclo evolutivo assim como o Sol, e como se dará esse processo, que já adiantado aqui é bastante violento e destrutivo.</h5>
+<h5>No texto sobre o Sol, já esclarecemos que os fatores básicos que o fazem produzir brilho e transmitir calor também ocorrem nas estrelas, e que as principais diferenças entre o Sol e as estrelas são a distância - as estrelas se acham a anos-luz de distância, enquanto o Sol está apenas 8 minutos-luz da Terra - e a massa inicial. Agora estamos preparados para entender um pouco mais sobre as estrelas e sobre esses fatores que fazem com que elas se diferenciem do Sol; em cor, em massa, entre outros. Mas o principal objetivo aqui é saber se as estrelas vão terminar seu ciclo evolutivo assim como o Sol, e como se dará esse processo, que, já adiantado aqui, pode ser bastante violento e destrutivo.</h5>
 * * *
+
+Nos braços de galáxias espirais, semelhantes à nossa, a Via Láctea, existem grandes nuvens de gás e poeira interestelar, cuja massa pode chegar a milhares ou milhões de vezes a massa do Sol.
+
+<center>
+ <figure>
+  <img src="/assets/img/evlStar/andromeda.png" alt="Trulli" style="width:60%">
+  <figcaption>Fig.1 - Galáxia de Andromeda, também conhecida como M31. É a galáxia espiral mais próxima, podemos notar em seus braços espirais manchas escuras que são as grandes nuvens de gás e poeira. </figcaption>
+</figure>
+</center> 
+
+ Essas nuvens são compostas principalmente de hidrogênio e alguns traços de outros elementos da tabela periódica. Em regiões mais frias dessas grandes nebulosas, existem as denominadas “nuvens moleculares”, onde, devido à sua baixa temperatura, ocorre a formação de moléculas, sobretudo moléculas de hidrogênio ($H_2$), e podem se formar glóbulos mais densos, pois a baixa temperatura favorece a ação da gravidade, aproximando as moléculas. Na figura abaixo temos um desses glóbulos formados, uma nuvem escura e fria com cerca de duas vezes a massa do Sol, e cerca de 400 anos-luz de distância.
+
+<center>
+ <figure>
+  <img src="/assets/img/evlStar/Barnard-68.jpg" alt="Trulli" style="width:40%">
+  <figcaption>Fig.2 - Barnard 68, nuvem molecular com cerca de meio ano-luz de diâmetro, podendo se tornar uma estrela dentro dos próximos 200.000 anos ou mais. </figcaption>
+</figure>
+</center> 
+
+ Esses glóbulos mais frios e densos são os locais perfeitos para o nascimento de estrelas. Certas regiões dessas grandes nuvens moleculares podem, assim, se transformar em verdadeiros “berçários” de estrelas, formando dezenas, centenas ou até milhares de estrelas. Na imagem abaixo vemos a nebulosa de Órion, mostrando várias estrelas em nascimento, situada a cerca de 1350 anos-luz de distância, ainda é possível observar a imensa nuvem de gás e poeira, com aproximadamente 24 anos-luz de diâmetro com 2000 vezes a massa do Sol. Inúmeras estrelas se formaram e vêm se formando em seu interior nos últimos milhões de anos.
+
+<!--<center>
+<iframe width="854" height="480" src="https://youtu.be/IMO595LRh74" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>-->
 
 <center>
  <figure>
   <img src="/assets/img/evlStar/eso1006a.jpg" alt="Trulli" style="width:60%">
-  <figcaption>Fig.1 - Nebulosa de Orion, situada a 1350 anos-luz de distância. No campo de visão desta imagem é possível observar uma densa formação de gás e poeira (parte mais densa e escura) entre o brilho das estrelas. </figcaption>
+  <figcaption>Fig.3 - Nebulosa de Orion, situada a cerca de 1350 anos-luz de distância. No campo de visão desta imagem é possível observar a imensa nuvem de gás e poeira, com aproximadamente 24 anos-luz de diâmetro e massa cerca de 2.000 vezes a do Sol que consiste no mais próximo grande "berçário" de estrelas.</figcaption>
 </figure>
 </center> 
 
-Na imagem anterior temos a nebulosa de Órion, composta de gás e poeira interestelar que sobrou da formação de galáxias. São nuvens compostas principalmente de hidrogênio molecular e alguns traços de outros elementos da tabela periódica. São nuvens frias com cerca de 10 K a 20 K, mas muito densas com cerca de $10^{6}$ a $10^{10}$ partículas/$cm^{3}$, apresentando um formato irregular que variam entre 1 a 300 anos-luz de comprimento. Por serem frias são os locais perfeitos para o nascimento de estrelas, contendo gás e poeira suficiente para formar entre 10 a 10 milhões de estrelas como o nosso Sol.
-
-O gatilho que propicia a formação de estrelas dentro dessas nuvens é, colisão entre nuvens próximas, ondas de choque de explosão de supernovas e/ou formação de estrelas maciças próximas, além da turbulência interna natural da nuvem provocada pelo movimento de seus gases. Esse cenário é perfeito para causar um desequilíbrio nessas nuvens aglomeradas, que começam a entrar em colapso, ou seja começam a se contrair e fragmentar-se formando glóbulos. As estrelas nascem então a partir desses glóbulos.
+O gatilho que propicia a formação de estrelas dentro dessas nuvens pode ser a colisão entre nuvens próximas, ondas de choque de explosão de supernovas e/ou formação de estrelas de grande massa próximas, além da turbulência interna natural da nuvem provocada pelo movimento de seus gases. Esse cenário é perfeito para causar um desequilíbrio nessas nuvens aglomeradas, que começam a entrar em colapso, ou seja começam a se contrair e fragmentar-se formando glóbulos. As estrelas nascem então a partir desses glóbulos.
 
 <center>
 <iframe width="854" height="480" src="https://www.youtube.com/embed/YbdwTwB8jtc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p><b>Simulação da fragmentação de uma nuvem molecular e formação de glóbulos que podem originar estrelas.</b><br>
+<a href="https://www.ukaff.ac.uk/starcluster/" target="iframe_a">https://www.ukaff.ac.uk/starcluster/</a>
+</p>
 </center>
 
-Na simulação anterior vemos o colapso e a fragmentação de uma nuvem molecular e a formação de glóbulos, que começam a se separar da nuvem e se contrair iniciando sua fase estelar.
+Na simulação anterior vemos o colapso e a fragmentação de uma nuvem molecular e a formação de glóbulos, que começam a se separar da nuvem e se contrair pela ação da gravidade, iniciando sua fase estelar.
 
-O glóbulo então começa a evoluir para um **protoestrela**, nesse estágio ele só possui $1\%$ de sua massa final, suficiente para formar um disco em seu entorno e continuar crescendo. Depois de alguns milhões de anos, o núcleo do glóbulo estará quente o suficiente para iniciar a fusão de H em He, passando então a emitir uma radiação através de seus polos, atingindo temperaturas entre 2000 K a 3000 K e dando início a sua fase de protoestrela, com um disco *protoplanetário* de gás e poeira em seu entorno. Se esta protoestrela resistir as fortes condições a que será submetida deste ponto em diante, ela se tornará uma estrela, cerca de $10\%$ de todas as protoestrelas sobrevivem a essa fase.
+O glóbulo então começa a evoluir para uma **protoestrela**, com uma concentração maior de massa em seu centro e um disco de matéria em seu entorno que continua caindo em direção ao centro fazendo ele crescer, num processo denominado de "acreção". Depois de alguns milhões de anos, se a massa acrescentada for suficiente para que a conversão de energia potencial gravitacional em energia térmica, durante a queda de matéria em direção ao centro, eleve a temperatura, neste caso, até cerca de 10 milhões de kelvin, terá início, então, a fusão de H em He. Na superfície, a temperatura atingirá entre 2000 K a 3000 K,dando início a sua fase de protoestrela, com um disco *protoplanetário* de gás e poeira em seu entorno, a partir do qual poderão se formar planetas ao redor da estrela.
 
-Na simulação abaixo, podemos observar uma protoestrela com um disco protoplanetário da nebulosa M78, semelhante a que deu origem ao nosso Sol. A protoestrela simulada completa uma volta por dia e gira mais rápido que o disco ao seu redor devido a interação da radiação que emana de seus polos com o próprio disco.
+Na simulação abaixo, podemos observar uma protoestrela com um disco protoplanetário da nebulosa M78, semelhante a que deu origem ao nosso Sol. A protoestrela simulada completa uma volta por dia e gira mais rápido que o disco ao redor e apresenta dois pontos mais quentes formados por feixes de matéria que ainda está sendo transferida do disco para a protoestrela.
 
 <center>
 <iframe width="854" height="480" src="https://www.youtube.com/embed/U_jFrWm_ers?start=21" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p><b>Exemplo de uma protoestrela envolta em sua nuvem de nascimento. Neste estágio já possui 80% da massa do Sol e uma temperatura superficial de 3700 K, um terço menor que a temperatura da superfície do Sol</b><br>
+<a href="https://svs.gsfc.nasa.gov/vis/a010000/a010900/a010991/index.html" target="iframe_a">https://svs.gsfc.nasa.gov/vis/a010000/a010900/a010991/index.html</a>
+</p>
 </center>
 
-Para as estrelas massivas (acima de $10 M\odot$) o glóbulo é completamente consumido, ionizando toda a nuvem ao redor para formar a protoestrela, tudo isso em um período de mais ou menos 160 000 anos. Diferente das estrelas da ordem de massa do Sol, que levam cerca de 30 milhões de anos para sair da fase de protoestrela e ainda não destrói todo o glóbulo, preservando a nuvem de gás e poeira em forma de disco ao seu redor. Tanto para estrelas massivas como de pouca massa, um jato de radiação escapa do núcleo da protoestrela, porém nas estrelas de pouca massa, esse jato vai interagir com o que sobrou do glóbulo e da nuvem, do qual se formará os sistemas planetários.
+Para as estrelas de grande massa (acima de $10 M\odot$), o glóbulo é completamente consumido e a intensa radiação emitida pela jovem estrela ioniza e faz brilhar as regiões próximas da grande nuvem ao seu redor, a partir do qual se formou (Fig.3), tudo isso em um período de mais ou menos 160.000 anos, bem diferente das estrelas com massa semelhante à do Sol, que levam cerca de 30 milhões de anos para sair da fase de protoestrela e ainda não destrói todo o glóbulo, preservando a nuvem de gás e poeira em forma de disco ao seu redor, a partir do qual poderão se formar planetas.
+
+A transição de protoestrela para estrela ocorre quando o processo de fusão termonuclear, de hidrogênio em hélio, se estabiliza. Isso acontece porque, quando a liberação de energia nuclear aumenta, a pressão local também aumenta e a estrela se expande; porém, com a expansão, o gás no interior da estrela tende a esfriar e, consequentemente, devido à temperatura mais baixa, a liberação de energia por fusão termonuclear diminui. Assim, a estrela acaba atingindo a temperatura e o tamanho ideais para que haja um equilíbrio entre expansão e contração, um estado de equilíbrio hidrostático entre peso (ação da gravidade) e empuxo (produzido pelo aumento da pressão com a profundidade) em seu interior, permitindo que a estrela fique estável por um longo período.
+
+Essa fase de estabilidade, em que a estrela permanece a maior parte de sua vida, realizando apenas a fusão de hidrogênio em hélio, é denominada de fase de sequência principal. Conforme indicado na Fig.4, nessa fase as estrelas se situam numa região bem definida do chamado "diagrama de Hertzprung-Russel" (diagrama H-R), muito usado na descrição de como se classificam e como ocorre a evolução das estrelas.
 
 ### Classificação e o diagrama HR
 
 <center>
  <figure>
   <img src="/assets/img/evlStar/diagramaHR.png" alt="Trulli" style="width:55%">
-  <figcaption>Fig.2 - Classificação e estágios evolutivos das estrelas.</figcaption>
+  <figcaption>Fig.4 - Diagrama H-R, de luminosidade em função da temperatura, que costuma ser usado para indicar a classificação e estágios evolutivos das estrelas.</figcaption>
 </figure>
 </center> 
 
-A transição de protoestrela para estrela ocorre quando os processos de fusão termonuclear - hidrogênio em hélio - se estabiliza. Essas estrelas estão agora em *equilíbrio hidrostático*; a pressão de radiação devido ao processo de fusão no núcleo é equilibrada pela força gravitacional interna, assim a estrela brilha e crescer.
+Duas propriedades físicas muito usadas na descrição e estudo das estrelas e de sua evolução são a temperatura de sua superfície – que determina a sua cor – e sua luminosidade, que corresponde à energia luminosa total por ela emitida, em todas as direções, por unidade de tempo, ou seja, corresponde à sua potência luminosa.
 
-As estrelas podem ser classificadas e agrupadas a partir de sua cor e seu brilho, analisando essas propriedades físicas, é possível verificar que as estrela não se distribuem aleatoriamente no espaço, mas formam agrupamentos específicos. Sabendo disso, por volta de 1910 dois astrônomos Ejnar Hertzsprung e Henry Norris Russell elaboraram um diagrama que ficou conhecido como *diagrama HR*, classificando as estrelas em estrelas supergigantes, gigantes, anãs e anãs-brancas.
+Por volta de 1910, dois astrônomos, Ejnar Hertzsprung e Henry Norris Russell, elaboraram um diagrama – que, em sua homenagem, passou a ser conhecido como diagrama H-R (Hertzprung-Russel) – no qual essas duas propriedades são representadas: no eixo horizontal, a temperatura, numa escala logarítmica, com o sentido de crescimento para a esquerda, e, no eixo vertical, a luminosidade, também numa escala logarítmica, já que a variação de brilho das estrelas é muito grande. Ao se representar as posições de estrelas nesse diagrama (Fig.4) é possível verificar que elas não se distribuem aleatoriamente, mas formam agrupamentos específicos, podendo ser classificadas, de acordo com suas posições, como estrelas de sequência principal, gigantes, supergigantes e anãs-brancas. Conforme foi dito no final da seção anterior, depois que as estrelas nascem e atingem um estado de equilíbrio, realizando a fusão de hidrogênio em hélio em seu núcleo, elas se situam na sequência principal e nela permanecem a maior parte (cerca de 90%) de sua vida. Contudo, quando o hidrogênio se esgota em seu núcleo, elas evoluem e deixam a sequência principal, podendo evoluir para o ramo das gigantes ou supergigantes e, em alguns casos, chegar a um estágio final de anã branca. Como veremos, o caminho evolutivo seguido será fortemente determinado pela massa inicial da estrela, e quanto maior a massa, mais rápida será a evolução.
 
 Podemos dizer que o diagrama HR é uma tabela periódica das estrelas. Da mesma forma que na tabela periódica os elementos são organizados de acordo com suas propriedades físicas e químicas, no diagrama HR as estrelas das mesmas regiões compartilham um conjunto comum de características, porém, diferentemente da tabela periódica, as características físicas das estrelas mudam com o tempo e, portanto sua posição no diagrama também muda; de modo que podemos pensar no diagrama HR como um gráfico visual da evolução estelar. Logo, a partir da localização de uma estrela no diagrama, são conhecidas; a luminosidade, tipo espectral, cor, temperatura, massa, composição química, idade e história evolutiva.
 
@@ -144,8 +176,27 @@ Massa inicial $M_{\odot}$ | Elementos do Núcleo | Estado final
 
 ## Referências
 
-* [Stellar Evolution](https://chandra.harvard.edu/edu/formal/stellar_ev/)
-* [Astronomia e Astrofísica](http://astro.if.ufrgs.br/escala/escala.htm)
-* [Revista Ilustríssima](https://portal.cbpf.br/downloads/divulgacao-cientifica/livros/Ilustrissima-fisica.pdf)
-* [Wikipédia - Evolução Estelar](https://pt.wikipedia.org/wiki/Evolu%C3%A7%C3%A3o_estelar)
-* [O céu que nos envolve](http://www.astro.iag.usp.br/OCeuQueNosEnvolve.pdf)
+* <p>Stellar Evolution. <b>Chanda X-ray Observatory,</b> 2019.<br>
+Disponível em: <a href="https://chandra.harvard.edu/edu/formal/stellar_ev/" target="_blank">https://chandra.harvard.edu/edu/formal/stellar_ev/</a>.<br>
+Acesso em: 06, ago 2020.</p>
+* <p>Evolução e interiores estelares. <b>Astronomia e Astrofísica,</b> 2019.<br>
+Disponível em: <a href="http://astro.if.ufrgs.br/evol/node1.htm" target="_blank">http://astro.if.ufrgs.br/evol/node1.htm</a>.<br>
+Acesso em: 06, ago 2020.</p>
+* <p>FALCIANO, Felipe Tovar. Nós, as estrelas e o universo. <b>Ilustríssima Física,</b> 2019.<br>
+Disponível em: <a href="https://www2.cbpf.br/downloads/divulgacao-cientifica/livros/Ilustrissima-fisica.pdf" target="_blank">https://www2.cbpf.br/downloads/divulgacao-cientifica/livros/Ilustrissima-fisica.pdf</a>.<br>
+Acesso em: 06, ago 2020.</p>
+* <p>Evolução Estelar. <b>Wikipédia,</b> 2020.<br>
+Disponível em: <a href="https://pt.wikipedia.org/wiki/Evolu%C3%A7%C3%A3o_estelar" target="_blank">https://pt.wikipedia.org/wiki/Evolu%C3%A7%C3%A3o_estelar</a>.<br>
+Acesso em: 09, ago 2020.</p>
+* <p>PICAZZIO, Enos. <b>O céu que nos envolve: Introdução à astronomia para educadores e iniciantes,</b> 2011.<br>
+Disponível em: <a href="http://www.astro.iag.usp.br/OCeuQueNosEnvolve.pdf" target="_blank">http://www.astro.iag.usp.br/OCeuQueNosEnvolve.pdf</a>.<br>
+Acesso em 06, ago 2020.</p>
+* <p>NETO, Augusto Damineli.; JABLONSKI, Francisco José. Nascimento, Vida e Morte das Estrelas (parte 01).<br>
+ <b>Revista Brasileira de Física,</b> 1979, Vol. 1, Ed. 2. Disponível em: <a href="http://www.sbfisica.org.br/rbef/pdf/vol01a13.pdf" target="_blank">http://www.sbfisica.org.br/rbef/pdf/vol01a13.pdf</a>.<br>
+Acesso em: 28, ago 2021.</p>
+* <p>NETO, Augusto Damineli.; JABLONSKI, Francisco José. Nascimento, Vida e Morte das Estrelas (parte 02).<br>
+ <b>Revista Brasileira de Física,</b> 1980, Vol. 2, Ed. 1. Disponível em: <a href="http://www.sbfisica.org.br/rbef/pdf/vol02a04.pdf" target="_blank">http://www.sbfisica.org.br/rbef/pdf/vol02a04.pdf</a>.<br>
+Acesso em: 28, ago 2021.</p>
+* <p>NETO, Augusto Damineli.; JABLONSKI, Francisco José. Nascimento, Vida e Morte das Estrelas (parte 03).<br>
+ <b>Revista Brasileira de Física,</b> 1980, Vol. 2, Ed. 3. Disponível em: <a href="http://www.sbfisica.org.br/rbef/pdf/vol02a28.pdf" target="_blank">http://www.sbfisica.org.br/rbef/pdf/vol02a28.pdf</a>.<br>
+Acesso em: 28, ago 2021.</p>

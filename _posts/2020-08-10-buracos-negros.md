@@ -69,6 +69,20 @@ Ainda temos a esfera de fótons e/ou anel de fótons, é uma esfera de luz compo
 
 E por fim a singularidade gravitacional, a região onde a curvatura do espaço-tempo é infinita, possuindo volume zero e contendo toda massa do buraco negro, e portanto uma densidade infinita. Ao atingir a singularidade, o objeto é esmagado pela densidade infinita e adicionado à massa do buraco negro. Mas antes que isso aconteça, o objeto ou observador será dilacerado pela crescente forças de marés, processo comumente conhecido como espaguetificação. Uma vez que se cruza o horizonte de eventos tudo vai pra singularidade.
 
+Existe um raio mínimo onde um objeto (partícula de luz apenas - Fóton) conseguiria escapar de um buraco negro (não da singularidade) em termos de uma velocidade chamada velocidade de escape ($v_e$). A velocidade necessária para que uma massa m escapa do campo gravitacional de uma estrela ou mesmo um planeta, é calculada igualando a energia potencial gravitacional ($U_g$) na superfície da estrela ou planeta com a energia cinética ($E_c$), ou seja:
+<center>
+$$\frac{1}{2}mv² = \frac{GMm}{R}$$
+</center>
+Onde R é o raio da estrela ou planeta e M é massa dessa estrela ou desse planeta. Se isolarmos v, vamos obter $v_e$ que é a velocidade de escape:
+<center>
+$$v_e = \sqrt{\frac{2MG}{R}}$$
+</center>
+Para um buraco negro, é sempre dito que nem a luz escapa de seu campo gravitacional, porém, como dito anteriormente existe um raio mínimo em que essa luz (fóton de energia) consegue escapar, esse raio é denominado de raio de Schwarzschild ($r_S$), encontramos esse raio substituindo $v_e$ pela velocidade da luz c, e isolando R se torna $r_S$, ou seja:
+<center>
+$$r_S = \frac{2GM}{c^2}$$
+</center>
+Esse é o menor raio do qual se conseguiria escapar de um buraco negro com a velocidade da luz, mesmo assim, quando a luz escapa de um buraco negro, ela sofre um desvio para o vermelho devido o forte efeito da gravidade, ou seja, a luz visível que foge do buraco negro é avermelhada, depois que ela percorre uma trajetória curva nos limites do horizonte de eventos, apresenta uma frequência menor (na simulação abaixo, essa parte seria o anel de fótons).
+
 <center>
  <figure>
 <iframe width="854" height="480" src="https://www.youtube.com/embed/l36UkYtq6m0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -81,8 +95,24 @@ E por fim a singularidade gravitacional, a região onde a curvatura do espaço-t
 
 ## Referências
 
-* [O céu que nos envolve](http://www.astro.iag.usp.br/OCeuQueNosEnvolve.pdf)
-* [Buracos Negros](https://pt.wikipedia.org/wiki/Buraco_negro)
-* [Messier 87](https://pt.wikipedia.org/wiki/Messier_87)
-* [Key Science Objectives](https://eventhorizontelescope.org/science)
-* [THE TRUTH AND LIES ABOUT BLACK HOLES](https://chandra.harvard.edu/resources/flash/lies_about_blackholes.html)
+* <p>PICAZZIO, Enos. <b>O céu que nos envolve: Introdução à astronomia para educadores e iniciantes,</b> 2011.<br>
+Disponível em: <a href="http://www.astro.iag.usp.br/OCeuQueNosEnvolve.pdf" target="_blank">http://www.astro.iag.usp.br/OCeuQueNosEnvolve.pdf</a>.<br>
+Acesso em 03, out 2020.</p>
+* <p>Buracos Negros. <b>Wikipédia,</b> 2020.<br>
+Disponível em: <a href="https://pt.wikipedia.org/wiki/Buraco_negro" target="_blank">https://pt.wikipedia.org/wiki/Buraco_negro</a>.<br>
+Acesso em: 10, ago 2020.</p>
+* <p>Messier 87. <b>Wikipédia,</b> 2020.<br>
+Disponível em: <a href="https://pt.wikipedia.org/wiki/Messier_87" target="_blank">https://pt.wikipedia.org/wiki/Messier_87</a>.<br>
+Acesso em: 10, ago 2020.</p>
+* <p>Key Science Objectives. <b>Event Horizon Telescope,</b> 2020.<br>
+Disponível em: <a href="https://eventhorizontelescope.org/science" target="_blank">https://eventhorizontelescope.org/science</a>.<br>
+Acesso em: 10, ago 2020.</p>
+* <p>The truth and lies about black holes. <b>Chanda X-ray Observatory,</b> 2019.<br>
+Disponível em: <a href="https://chandra.harvard.edu/resources/flash/lies_about_blackholes.html" target="_blank">https://chandra.harvard.edu/resources/flash/lies_about_blackholes.html</a>.<br>
+Acesso em: 06, ago 2020.</p>
+* <p>NETO, Augusto Damineli.; JABLONSKI, Francisco José. Nascimento, Vida e Morte das Estrelas (parte 03).<br>
+ <b>Revista Brasileira de Física,</b> 1980, Vol. 2, Ed. 3. Disponível em: <a href="http://www.sbfisica.org.br/rbef/pdf/vol02a28.pdf" target="_blank">http://www.sbfisica.org.br/rbef/pdf/vol02a28.pdf</a>.<br>
+Acesso em: 01, set 2021.</p>
+* <p>PERUZZO, Jucimar. <b>Teoria da Relatividade - Conceitos Básicos.</b><br>
+Rio de Janeiro: Editora Ciência Moderna Ltda., 2012.</p>
+
