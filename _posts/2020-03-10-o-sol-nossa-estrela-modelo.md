@@ -43,7 +43,7 @@ O Sol nada mais é do que uma imensa esfera de gás incandescente, sustentada pe
 
 
 
-Na verdade ainda existem duas grandezas físicas importantes para a atividade solar, como o $\vec{B}$ (campo magnético), gerado pelo movimento plasmático e responsável pela ejeção de massa coronal (**CME**), e a rotação do Sol, provocada pela sua contração do Sol, que o faz girar em torno de seu próprio eixo. Mas se ficarmos apenas em função do empuxo (E) e da força peso (F), poderemos compreender bem seu funcionamento, equilíbrio e estabilidade.
+Na verdade ainda existem duas grandezas físicas importantes para a atividade solar, como o $\vec{B}$ (campo magnético), gerado pelo movimento plasmático e responsável pela [ejeção de massa coronal](https://pt.wikipedia.org/wiki/Eje%C3%A7%C3%A3o_de_massa_coronal), e a rotação do Sol, provocada pela sua contração do Sol, que o faz girar em torno de seu próprio eixo. Mas se ficarmos apenas em função do empuxo (E) e da força peso (F), poderemos compreender bem seu funcionamento, equilíbrio e estabilidade.
 
 Assim como um balão cheio de ar (ou gases) o nosso Sol é composto  basicamente de hidrogênio e hélio (cerca de $81\%$ de H, $18\%$ de He e $1\%$ outros elementos como carbono, oxigênio,...), os mesmos *H* e *He* da tabela periódica. Na verdade, o *H* é o elemento mais abundante do Universo que se formou na [nucleossíntse primordial](https://en.wikipedia.org/wiki/Big_Bang_nucleosynthesis). Ele é o elemento responsável pela geração de energia no núcleo do Sol através de reações **termonucleares**, as quais convertem o hidrogênio em hélio. A cada segundo, o Sol transforma aproximadamente 600 milhões de toneladas de *H* em *He*!
 
@@ -63,6 +63,9 @@ Na imagem acima é possível observar algumas partes que compõem o Sol. Começa
 
 <center>
 <iframe width="854" height="480" src="https://www.youtube.com/embed/HFT7ATLQQx8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<figcaption>Vídeo 1 - <a href="https://svs.gsfc.nasa.gov/cgi-bin/details.cgi?aid=11168" target="iframe_a">Erupção solar</a> mostrando ejeção de matéria solar.</figcaption>
+<br>
+
 </center>
 
 Continuando na fotosfera, temos ainda as **manchas solares**, são regiões escuras e irregulares que podem ser observadas a olho nu, Galileu Galilei foi um dos primeiros a observar as manchas solares, publicando sobre elas em 1613. Galileu conseguiu demonstrar que o Sol estava em rotação ao acompanhar o movimento dessas manchas. Algo interessante é que essas manchas marcam o *ciclo de atividade solar*. Elas tem duração aproximada de 7 dias, e são mais intensas e numerosas em um ciclo de 11 anos. Durante esses períodos as erupções solares são mais intensas, gerando grandes proeminências que se desprendem da coroa solar, liberando gás ionizado e uma grande quantidade de energia, equivalente a cerca de 100 milhões de bombas nucleares, que viajam a mais de 1.000.000 km/h atingindo a Terra em cerca de 4 dias, podendo causar alguns danos na Terra, de satélites a torres de transmissão.
@@ -94,17 +97,17 @@ A esse ponto a temperatura no núcleo solar é de 15 milhões de graus Celsius. 
 <center>
  <figure>
   <img src="/assets/img/skell/cadeiapp.png" alt="imagem" style="width:80%">
-  <figcaption>Fig.3 - Produção de energia solar. Do lado esquerdo ocorre a fusão de H em He com a liberação de fóton, do outro lado a reação em cadeia das partículas ao colidirem.</figcaption>
+  <figcaption>Fig.5 - Produção de energia solar. Do lado esquerdo ocorre a fusão de H em He com a liberação de fóton, do outro lado a reação em cadeia das partículas ao colidirem.</figcaption>
 </figure>
 </center> 
 
-O processo de fusão inicial envolvem estes núcleos de hidrogênio apresentados na figura acima, numa reação chamada cadeia próton-próton (cadeia p-p). Na primeira etapa da cadeia p-p (lado direito da Figura 2 acima), dois átomos de H se fundem para formar um núcleo de deutério, um pósitron e um neutrino. O neutrino escapa da estrela, mas o pósitron colide com o elétron, liberando energia na forma de radiação. Na segunda etapa o deutério se funde com outro H, formando o isótopo de hélio ($ ^{3}H $) com dois prótons e um nêutron, liberando fótons (raios gama $\gamma$). E na terceira reação, dois isótopos de fundem para formar um átomo de hélio $ ^{4}He $ e dois núcleos de H.
+O processo de fusão inicial envolvem estes núcleos de hidrogênio apresentados na figura acima, numa reação chamada cadeia próton-próton (cadeia p-p). Na primeira etapa da cadeia p-p (lado direito da Figura 5 acima), dois átomos de H se fundem para formar um núcleo de deutério, um pósitron e um neutrino. O neutrino escapa da estrela, mas o pósitron colide com o elétron, liberando energia na forma de radiação. Na segunda etapa o deutério se funde com outro H, formando o isótopo de hélio ($ ^{3}H $) com dois prótons e um nêutron, liberando fótons (raios gama $\gamma$). E na terceira reação, dois isótopos de fundem para formar um átomo de hélio $ ^{4}He $ e dois núcleos de H.
 
 Como dito anteriormente, o Sol tem uma enorme reserva de hidrogênio, que faz com que seja possível manter essas reações constantes, ficando estável por um longo período. Mas o que pode acontecer com o Sol se essa reserva de hidrogênio se esgotar?
 
 Quando todo aquele hidrogênio virar hélio, o Sol se tornará uma gigante vermelha com tamanho e massa suficiente para retomar os processos de fusão em seu núcleo, desta vez colidindo átomos de He, formando carbono. Daí em diante a temperatura do núcleo é insuficiente para fundir carbono em elementos mais pesados. Então o Sol se desestabiliza, isto é, perde seu equilíbrio e entra em colapso, marcando o fim de sua produção de energia. Com o colapso a parte externa é ejetada lançando matéria e poeira no espaço formando uma *nebulosa planetária*. O que sobra é um núcleo muito denso composto em sua maior parte de carbono, mais ainda muito brilhante denominado de *anã-branca*.
 
-O nosso Sol já percorreu metade do seu ciclo evolutivo, estando com uma idade de cerca de 4,5 bilhões de anos e devendo durar por mais uns 5 ou 6 bilhões de anos até consumir todo seu estoque de hidrogênio. Quando se tornar uma gigante vermelha o seu raio atingirá a órbita da Terra, engolindo Mercúrio e Vênus. Nesse ponto, a vida na Terra já terá se extinguiu a muito tempo! Daqui a aproximadamente 1.1 bilhões de anos o Sol será $10\%$ maior, elevando a temperatura terrestre, provocando um efeito estufa mais acentuado. Daqui a 3.5 bilhões de anos o Sol será $40\%$ maior, a radiação solar fará com que a água dos oceanos evapore e a temperatura na superfície da Terra chegue a $700^\circ C$, vaporizando toda água da Terra.
+O nosso Sol já percorreu metade do seu ciclo evolutivo, estando com uma idade de cerca de 4,5 bilhões de anos e devendo durar por mais uns 5 ou 6 bilhões de anos até consumir todo seu estoque de hidrogênio. Quando se tornar uma gigante vermelha o seu raio atingirá a órbita da Terra, engolindo Mercúrio e Vênus. Nesse ponto, a vida na Terra já terá se extinguido há muito tempo! Daqui a aproximadamente 1.1 bilhões de anos o Sol será $10\%$ maior, elevando a temperatura terrestre, provocando um efeito estufa mais acentuado. Daqui a 3.5 bilhões de anos o Sol será $40\%$ maior, a radiação solar fará com que a água dos oceanos evapore e a temperatura na superfície da Terra chegue a $700^\circ C$, vaporizando toda água da Terra.
 
 <center>
  <figure>
