@@ -17,7 +17,7 @@ tags:
 <h5>No texto sobre o Sol, já esclarecemos que os fatores básicos que o fazem brilhar e transmitir calor também ocorrem nas estrelas, e que as principais diferenças entre o Sol e as estrelas são a distância – as estrelas se acham a anos-luz de distância, enquanto o Sol está a apenas 8 minutos-luz da Terra – e a massa inicial. Agora estamos preparados para entender um pouco mais sobre as estrelas e sobre aspectos que fazem com que elas se diferenciem do Sol, por exemplo, em cor, luminosidade e tamanho. Mas o principal objetivo aqui é saber se as estrelas vão terminar seu ciclo evolutivo assim como o Sol, e como se dará esse processo, que, já adiantado aqui, pode ser bastante violento e destrutivo.</h5>
 * * *
 
-> ### **O Nascimento**
+> ### O Nascimento
 
 Nos braços de galáxias espirais, semelhantes à nossa, a Via Láctea, existem grandes nuvens de gás e poeira interestelar, cuja massa pode chegar a milhares ou milhões de vezes a massa do Sol (Fig.1).
 
@@ -40,7 +40,9 @@ Nos braços de galáxias espirais, semelhantes à nossa, a Via Láctea, existem 
 O gatilho que propicia a formação desses glóbulos dentro dessas nuvens pode ser a colisão entre nuvens próximas ou ondas de choque de explosão de supernovas, além da turbulência interna natural da nuvem provocada pelo movimento de seus gases. Esse cenário é perfeito para causar um desequilíbrio nessas nuvens aglomeradas, que começam a entrar em colapso, ou seja, começam a se contrair e fragmentar-se formando glóbulos. O vídeo a seguir é uma simulação que busca indicar como ocorre esse processo.
 
 <center>
-<iframe width="854" height="480" src="https://www.youtube.com/embed/YbdwTwB8jtc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-21by9">
+<iframe src="https://www.youtube.com/embed/YbdwTwB8jtc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 <figcaption> Vídeo 1 - Simulação da formação a partir do colapso gravitacional que pode ocorrer em certas regiões dentro de uma nuvem molecular. Fonte: <a href="https://www.ukaff.ac.uk/starcluster/" target="iframe_a">https://www.ukaff.ac.uk/starcluster/</a></figcaption>
 <br>
 </center>
@@ -63,7 +65,9 @@ Nessa fase, denominada de protoestrela, a temperatura na superfície atingirá e
 No vídeo a seguir, podemos observar a simulação de uma protoestrela com um disco protoplanetário no interior da nuvem conhecida como McNeil’s nebula. A protoestrela completa cerca de uma volta por dia, gira mais rápido que o disco ao seu redor e apresenta dois pontos mais quentes, que emitem raios X, produzidos por feixes de matéria que ainda está sendo transferida do disco para a protoestrela.
 
 <center>
-<iframe width="854" height="480" src="https://www.youtube.com/embed/U_jFrWm_ers?start=21" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-21by9">
+<iframe src="https://www.youtube.com/embed/U_jFrWm_ers?start=21" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 <figcaption>Vídeo 2 - Exemplo de uma protoestrela com um disco protoplanetário ao seu redor. Neste estágio já possui 80% da massa do Sol e uma temperatura superficial de 3700 K, um terço menor que a temperatura da superfície do Sol. Fonte: <a href="https://svs.gsfc.nasa.gov/vis/a010000/a010900/a010991/index.html" target="iframe_a">https://svs.gsfc.nasa.gov/vis/a010000/a010900/a010991/index.html</a></figcaption>
 <br>
 </center>
@@ -147,7 +151,9 @@ A anã branca solitária terminará aqui sua evolução. Sem mais produzir energ
 Se a estrela iniciar sua vida com massa entre 8 e 25 M Sol , ela terá uma morte catastrófica. Após a fase de supergigante e a formação do núcleo de ferro, a estrela não terá mais combustível para gerar energia, pois sendo o ferro o elemento cujo núcleo apresenta a maior energia de ligação, ele não libera energia ao ser fundido, ao contrário, absorve. Desprovida de sua fonte de energia para gerar alta pressão para balançar a gravidade, o núcleo colapsa violentamente sob seu próprio peso em alguns segundos. As camadas superiores, contendo aproximadamente 90% da massa da estrela, colapsam sobre este núcleo e, após liberarem uma imensa quantidade de energia potencial gravitacional em pouquíssimo tempo, produzem uma explosão em que são empurradas para fora com velocidades de milhares de quilômetros por segundo, um fenômeno chamado explosão de supernova. Tanta energia é liberada na explosão que a estrela brilha tanto quanto todas as estrelas da galáxia juntas.
 
 <center>
-<iframe width="854" height="480" src="https://www.youtube.com/embed/tzSAoW6fS6c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-21by9">
+<iframe src="https://www.youtube.com/embed/tzSAoW6fS6c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 <figcaption>Vídeo 3 - Exemplo de uma explosão de Supernova que ocorreu na galáxia M82, conhecida como <a href="https://www.nasa.gov/image-feature/goddard/2017/hubble-shows-light-echo-expanding-from-exploded-star" target="iframe_a">SN 2014J</a> descoberta em 21 de janeiro de 2014.</figcaption>
 <br>
 </center>
@@ -177,7 +183,9 @@ Essa, então, é a origem dos chamados “buracos negros estelares” que corres
 O centro do buraco negro é descrito como singularidade gravitacional – uma região onde a curvatura do espaço-tempo se torna infinita, contendo volume zero e densidade infinita. Na simulação seguinte, podemos observar um buraco negro que se encontra com uma estrela e, devido ao seu intenso campo gravitacional, absorve a matéria da estrela e forma um disco de acreção ao seu redor.
 
 <center>
-<iframe width="854" height="480" src="https://www.youtube.com/embed/hu6hIhW00Fk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-21by9">
+<iframe src="https://www.youtube.com/embed/hu6hIhW00Fk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 <figcaption>Vídeo 4 - Quando uma estrela vagueia próximo de um buraco negro, o intenso campo gravitacional puxa matéria da estrela para seu interior. Fonte: <a href="https://svs.gsfc.nasa.gov/cgi-bin/details.cgi?aid=12005" target="iframe_a">https://svs.gsfc.nasa.gov/cgi-bin/details.cgi?aid=12005</a>.</figcaption>
 <br>
 </center>

@@ -60,12 +60,12 @@ Na imagem acima é possível observar algumas partes que compõem o Sol. Começa
 
  Existem ainda as [proeminências](https://pt.wikipedia.org/wiki/Proemin%C3%AAncia_solar), que formam laços ancorados na superfície do Sol, podendo gerar uma ejeção de massa coronal ou [CME](https://svs.gsfc.nasa.gov/cgi-bin/details.cgi?aid=11168) quando se rompem, uma radiação provocada pelo campo magnético que força a ejeção de **plasma** da superfície solar, que é um estado físico da matéria similar ao gás, mas este, devido ao superaquecimento, se ioniza (ganha e/ou perde elétrons) formando íons positivos e elétrons livres em movimento. No video que segue, temos uma dessas erupções de plasma solar, que ocorreu em 19 de julho de 2012, emitindo luz e radiação a uma temperatura de 50.000 K com uma duração aproximada de 10 horas.
 
-
 <center>
-<iframe width="854" height="480" src="https://www.youtube.com/embed/HFT7ATLQQx8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-21by9">
+<iframe src="https://www.youtube.com/embed/HFT7ATLQQx8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 <figcaption>Vídeo 1 - <a href="https://svs.gsfc.nasa.gov/cgi-bin/details.cgi?aid=11168" target="iframe_a">Erupção solar</a> mostrando ejeção de matéria solar.</figcaption>
 <br>
-
 </center>
 
 Continuando na fotosfera, temos ainda as **manchas solares**, são regiões escuras e irregulares que podem ser observadas a olho nu, Galileu Galilei foi um dos primeiros a observar as manchas solares, publicando sobre elas em 1613. Galileu conseguiu demonstrar que o Sol estava em rotação ao acompanhar o movimento dessas manchas. Algo interessante é que essas manchas marcam o *ciclo de atividade solar*. Elas tem duração aproximada de 7 dias, e são mais intensas e numerosas em um ciclo de 11 anos. Durante esses períodos as erupções solares são mais intensas, gerando grandes proeminências que se desprendem da coroa solar, liberando gás ionizado e uma grande quantidade de energia, equivalente a cerca de 100 milhões de bombas nucleares, que viajam a mais de 1.000.000 km/h atingindo a Terra em cerca de 4 dias, podendo causar alguns danos na Terra, de satélites a torres de transmissão.

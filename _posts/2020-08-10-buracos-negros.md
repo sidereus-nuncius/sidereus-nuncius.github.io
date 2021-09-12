@@ -42,7 +42,9 @@ Essa ejeção de matéria pode provocar alguns efeitos adversos, principalmente 
 Na simulação abaixo, temos o exemplo de um buraco negro supermassivo. A simulação mostra um buraco negro rodeado por matéria luminosa. Essa matéria desaparece no buraco negro, que atua como um vórtice, mas durante a queda em espiral em direção ao buraco negro, devido ao seu imenso campo gravitacional, grande quantidade de energia potencial gravitacional é transformada em energia térmica, aumentando a temperatura desta matéria, tornando-a um plasma brilhante que emite muita energia, inclusive na forma de raios X.
 
 <center>
-<iframe width="854" height="480" src="https://www.youtube.com/embed/3NeIVjfuKQY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-21by9">
+<iframe src="https://www.youtube.com/embed/3NeIVjfuKQY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 <figcaption>Vídeo 1 - <a href="https://www.eso.org/public/videos/eso1907d/" target="iframe_a">Simulação</a> de um buraco negro rodeado por matéria luminosa, que desaparece a medida que se aproxima do buraco negro.</figcaption>
 <br>
 </center>
@@ -65,7 +67,9 @@ Recentemente em abril de 2019 foi divulgada a imagem de um buraco negro na const
 A galáxia M87 possui mais que o dobro do diâmetro da Via Láctea, aproximadamente 240 mil anos-luz. É uma das galáxias mais massivas do Universo, com cerca de 200 vezes a massa da Via láctea, porém ela está 2.000 vezes mais distante do que o centro da Via láctea. Então, qual a razão para a galáxia M87 ter sido escolhida para a primeira imagem de um buraco negro? O motivo, apesar de simples, tem influência de uma série de fatores, mas basicamente é o tamanho do horizonte de eventos do buraco negro da galáxia M87, que é cerca de 20 bilhões de km, enquanto o de Sagitário A\* é de 44 milhões de km. Isso influência diretamente no tamanho angular da região central da galáxia, para quem as observa aqui da Terra. Quando comparados, o tamanho angular de Sagitário A\* é 1.6 vezes menor que o do buraco negro da galáxia M87. Na simulação abaixo vemos detalhes da imagem produzida, e uma comparação do tamanho deste buraco negro em relação ao sistema solar.
 
 <center>
-<iframe width="854" height="480" src="https://www.youtube.com/embed/-22Gv-20LuM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-21by9">
+<iframe src="https://www.youtube.com/embed/-22Gv-20LuM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 <figcaption>Vídeo 2 - <a href="https://svs.gsfc.nasa.gov/13239" target="iframe_a">Galáxia M 87</a> com imagens no visível e em raios-X.</figcaption>
 <br>
 </center>
@@ -104,10 +108,10 @@ $$r_S = \frac{2GM}{c^2}$$
 Esse é o menor raio do qual se conseguiria escapar de um buraco negro com a velocidade da luz, mesmo assim, quando a luz escapa de um buraco negro, ela sofre um desvio para o vermelho devido o forte efeito da gravidade, ou seja, a luz visível que foge do buraco negro é avermelhada, depois que ela percorre uma trajetória curva nos limites do horizonte de eventos, apresenta uma frequência menor (na simulação abaixo, essa parte seria o anel de fótons).
 
 <center>
- <figure>
+<div class="embed-responsive embed-responsive-21by9">
 <iframe width="854" height="480" src="https://www.youtube.com/embed/l36UkYtq6m0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
   <figcaption> Vídeo 3 - O <a href="https://svs.gsfc.nasa.gov/13326" target="iframe_a">video simula</a> um observador distante, olhando acima do plano do disco de acreção - a parte avermelhada circundante. Em torno do buraco negro central, pode ser observada uma fina circunferência separada do disco de acreção, marcando a posição da esfera de fótons, dentro da qual fica o horizonte de eventos. A parte que fica mais brilhante a esquerda (parte mais avermelhada), se deve ao fato de estar mais próxima do observador, e circulando em sua direção. Conforme a simulação continua, é possível visualizar por cima do buraco negro e por baixo, passando pelo plano do disco no lado oposto e retornando ao ponto de vista original. </figcaption>
-</figure>
 </center> 
 
 -----
