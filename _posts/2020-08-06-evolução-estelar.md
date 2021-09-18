@@ -103,7 +103,7 @@ Conforme dito acima, a principal propriedade física que será determinante, tan
 
 Estrelas de grande massa, poderão prosseguir atingindo temperaturas ainda mais altas em seu núcleo, conseguindo realizar a fusão de elementos de maior número atômico, até o ferro. A partir do ferro e outros elementos químicos mais pesados (maior número atômico) que ele, não há mais liberação de energia ao ser realizada em uma reação de fusão nuclear. Ao contrário, é necessário adicionar energia para que a fusão ocorra. Elementos químicos mais pesados que o ferro só liberam energia em processos de fissão nuclear, quando se dividem e dão origem a elementos mais leves. Portanto, em algum momento na vida da estrela, cessará a liberação de energia por fusão nuclear que mantém o núcleo com alta temperatura e pressão, capaz de equilibrar o peso das camadas externas. Em algum momento, então, ocorrerá o colapso gravitacional da estrela que, dependendo de sua massa, pode ser um processo relativamente suave ou extremamente catastrófico.
 
-> ### Estágio final das estrelas supermassivas
+> ### Estágios finais da evolução estelar
 
 No diagrama a seguir (Fig. 5) é apresentada uma síntese de como se dá a evolução das estrelas, desde sua formação, como protoestrela, até seus estágios finais. Note que a propriedade física determinante de como se dará a evolução de uma estrela, por qual fases ela irá passar, que elementos químicos ela irá sintetizar em seu núcleo e qual será seu estágio final é a sua massa. Na coluna mais à esquerda do diagrama são indicados os intervalos de valores de massa de cada caminho evolutivo.
 
