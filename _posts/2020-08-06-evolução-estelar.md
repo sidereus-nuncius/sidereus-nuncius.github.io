@@ -109,7 +109,7 @@ No diagrama a seguir (Fig. 5) é apresentada uma síntese de como se dá a evolu
 
 <center>
  <figure>
-  <img src="/assets/img/evlStar/evolucao_estrelas.jpg" alt="Trulli" style="width:50%">
+  <img src="/assets/img/evlStar/evolucao_estrelas.jpeg" alt="Trulli" style="width:65%">
   <figcaption>Fig. 5 - Etapas evolutivas de estrelas de diferentes massas. Em letras amarelas se acham indicados os processos de síntese de elementos químicos mais pesados a partir de elementos mais leves, que ocorrem, por fusão nuclear, no interior das estrelas. O eixo do tempo, na horizontal, se acha fora de escala: a evolução das estrelas de maior massa é muito mais rápida que as de pequena massa e todas elas passam cerca de 90% de suas vidas na fase de sequência principal, apenas realizando a fusão de hidrogênio em hélio. Fonte: <a href="http://astro.if.ufrgs.br/estrelas/node14.htm" target="iframe_a">Astronomia e Astrofísica</a>.</figcaption>
 </figure>
 </center> 
