@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Características e definições de Buracos Negros"
+title: "Características dos Buracos Negros"
 author: Marcos
 categories: [ Artigos ]
 date: 2020-08-10 16:19:03
