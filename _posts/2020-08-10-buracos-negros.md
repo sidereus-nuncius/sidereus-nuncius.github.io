@@ -80,7 +80,7 @@ Já sabemos como que os buracos negros surgem, tanto os estelares quanto os supe
 
 <center>
  <figure>
-  <img src="/assets/img/bh/diskTraduz02.png" alt="Trulli" style="width:80%">
+  <img src="/assets/img/bh/diskTraduz03.png" alt="Trulli" style="width:80%">
   <figcaption>Fig.4 - Imagem da estrutura de um <a href="https://pt.wikipedia.org/wiki/Buraco_negro#/media/Ficheiro:Black_hole's_accretion_disk.jpg" target="iframe_a">buraco negro de Schwarzschild</a>. </figcaption>
 </figure>
 </center> 
