@@ -18,7 +18,7 @@ tags:
 
 <center>
  <figure>
-  <img src="/assets/img/universe/diagramUniverso.png" alt="Trulli" style="width:50%">
+  <img src="/assets/img/universe/diagramUniverso.png" alt="Trulli" style="width:100%">
   <figcaption>Fig.1 - <a href="https://www.eso.org/public/brazil/images/eso1620a/?lang" target="iframe_a">Diagrama da evolução do Universo</a> desde o Big Bang, há cerca de 13,8 bilhões de anos atrás. O Universo estava num estado neutro 400 mil anos após o Big Bang e assim se manteve até que a radiação emitida pela primeira geração de estrelas começou a ionizar o hidrogênio. Após várias centenas de milhões de anos, o gás do Universo encontrava-se completamente ionizado.</figcaption>
 </figure>
 </center> 
