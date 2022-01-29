@@ -72,7 +72,7 @@ Na imagem abaixo vemos os telescópios que trabalharam conjuntamente para formar
 </figure>
 </center> 
 
-A necessidade dessa estrutura, se deve o fato de que o buraco negro da galáxia M87 fica 2000 vezes mais distante da Terra do que o centro da Via Láctea. Pelo fato de que a Terra fica em um dos braços espirais da Via Láctea, onde a concentração de gás e poeira prejudica as observações de seu núcleo galáctico, impedindo a luz (radiação) que chega até nós do centro da Via láctea, e portanto, até aos telescópios. Logo, o único problema em relação ao buraco negro da galáxia M87 seria a distância, e para isso precisaria construir um telescópio do tamanho do planeta, que foi possível através do consórcio EHT.
+A necessidade dessa estrutura, se deve o fato de que o buraco negro da galáxia M87 fica 2000 vezes mais distante da Terra do que o centro da Via Láctea, que apesar disso, ou seja, do buraco negro do centro da nossa galáxia estar mais próximo, uma grande concentração de gás e poeira impede a luz de chegar até a Terra, prejudicando as observações de seu núcleo. Logo, o único problema em relação ao buraco negro da galáxia M87 seria a distância, e para isso precisaria construir um telescópio do tamanho do planeta, que foi possível através do consórcio EHT.
 
 <center>
 <video width="100%" height="100%" controls>
@@ -83,9 +83,9 @@ A necessidade dessa estrutura, se deve o fato de que o buraco negro da galáxia 
 <br>
 </center>
 
-Este conjunto de telescópios conectados entre si, revelou a primeira evidência visual direta do horizonte de um buraco negro supermassivo. Cada telescópio coletou parte da luz (radiação) vinda do buraco negro dando indicação de parte de sua estrutura, é como um quebra-cabeça onde cada telescópio monta parte da imagem. Porém, como essa luz é coletada de alguns locais da Terra, não é possível formar a imagem completa juntando todos os dados coletados, ou seja, faltam peças neste quebra-cabeça. Para isso foi desenvolvido um algoritmo que preenche as lacunas que faltam para formar a imagem  do buraco negro. No entanto, neste quebra-cabeça pode conter peças que se encaixam mesmo sendo de posições diferentes. A figura 4 mostra a geração das possíveis imagens a partir dos dados coletados fornecidos pelos telescópios.
+Este conjunto de telescópios conectados entre si, revelou a primeira evidência visual direta de um buraco negro supermassivo. Cada telescópio coletou parte da luz (radiação) vinda do buraco negro dando indicação de parte de sua estrutura, é como um quebra-cabeça onde cada telescópio monta parte da imagem. Porém, como essa luz é coletada de alguns locais da Terra, não é possível formar a imagem completa juntando todos os dados coletados, ou seja, faltam peças neste quebra-cabeça. Para isso foi desenvolvido um algoritmo que preenche as lacunas que faltam para formar a imagem  do buraco negro. A figura 4 mostra a geração das possíveis imagens a partir dos dados coletados fornecidos pelos telescópios.
 
-Para a escolha da imagem é feito uma limpeza que elimina dados indesejados como as interferências de rádios-comunicação terrestre, relâmpagos, ruídos gerado pelos telescópios entre outros . A partir daí várias imagens são geradas e comparadas como mostra a figura 3. Selecionam-se as imagens mais coerentes com as medições feitas pelos telescópios, e o algorítimo matemático preenche as lacunas reconstruindo a imagem até obter a imagem mais razoável de acordo com as hipóteses fornecidas.
+Para a escolha da imagem é feito uma limpeza que elimina dados indesejados como as interferências de rádios-comunicação terrestre, relâmpagos, ruídos gerado pelos telescópios entre outros. A partir daí várias imagens são geradas e comparadas como mostra a figura 4. Selecionam-se as imagens mais coerentes com as medições feitas pelos telescópios, e o algorítimo matemático preenche as lacunas reconstruindo a imagem até obter a imagem mais razoável de acordo com os dados fornecidos.
 
 <center>
  <figure>
@@ -94,7 +94,7 @@ Para a escolha da imagem é feito uma limpeza que elimina dados indesejados como
 </figure>
 </center> 
 
-Em março de 2021, os astrônomos revelaram campos magnéticos na primeira imagem do buraco negro, medindo sua polarização, ou seja, mostrando a direção da onda eletromagnética na imagem do buraco negro. Essas medidas são fundamentais para explicar os jatos de matéria lançado pelo buraco negro para fora da galáxia M87, e também explicar como que a matéria em volta pode cair no próprio buraco negro.
+Em março de 2021, os astrônomos revelaram campos magnéticos na primeira imagem do buraco negro, medindo a polarização da radiação emitida, ou seja, mostrando a direção da onda eletromagnética na imagem do buraco negro. Essas medidas são fundamentais para explicar os jatos de matéria lançado pelo buraco negro para fora da galáxia M87, e também explicar a interação entre matéria em volta no disco e a que está sendo ejetada pelo buraco negro.
 
 <center>
  <figure>
@@ -111,7 +111,7 @@ Em março de 2021, os astrônomos revelaram campos magnéticos na primeira image
 * <p>PICAZZIO, Enos. <b>O céu que nos envolve: Introdução à astronomia para educadores e iniciantes,</b> 2011.<br>
 Disponível em: <a href="http://www.astro.iag.usp.br/OCeuQueNosEnvolve.pdf" target="_blank">http://www.astro.iag.usp.br/OCeuQueNosEnvolve.pdf</a>.<br>
 Acesso em 11, jan 2022.</p>
-* <p>MATSUURA, Oscar T. <b>Primeira imagem de um buraco negro,</b> 2019.<br>
+* <p>MATSUURA, Oscar T. <b>Primeira imagem de um buraco negro,</b> 2020.<br>
 Disponível em: <a href="https://periodicos.ufes.br/astronomia/article/view/31781/21244" target="_blank">https://periodicos.ufes.br/astronomia/article/view/31781</a>.<br>
 Acesso em 11, jan 2022.</p>
 * <p>Key Science Objectives. <b>Event Horizon Telescope,</b> 2020.<br>
